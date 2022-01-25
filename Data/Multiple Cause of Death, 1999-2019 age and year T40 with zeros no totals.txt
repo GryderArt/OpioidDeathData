@@ -1,0 +1,2521 @@
+Ten-Year Age Groups	Ten-Year Age Groups Code	Multiple Cause of death	Multiple Cause of death Code	Year	Year Code	Deaths	Population	Crude Rate
+< 1 year	1	Opium	T40.0	1999	1999	0	3795762	Unreliable
+< 1 year	1	Opium	T40.0	2000	2000	0	3805648	Unreliable
+< 1 year	1	Opium	T40.0	2001	2001	0	4012658	Unreliable
+< 1 year	1	Opium	T40.0	2002	2002	0	3951461	Unreliable
+< 1 year	1	Opium	T40.0	2003	2003	0	3975871	Unreliable
+< 1 year	1	Opium	T40.0	2004	2004	0	4014258	Unreliable
+< 1 year	1	Opium	T40.0	2005	2005	0	4004393	Unreliable
+< 1 year	1	Opium	T40.0	2006	2006	0	4041738	Unreliable
+< 1 year	1	Opium	T40.0	2007	2007	0	4147997	Unreliable
+< 1 year	1	Opium	T40.0	2008	2008	0	4132735	Unreliable
+< 1 year	1	Opium	T40.0	2009	2009	0	4003587	Unreliable
+< 1 year	1	Opium	T40.0	2010	2010	0	3944153	Unreliable
+< 1 year	1	Opium	T40.0	2011	2011	0	3996537	Unreliable
+< 1 year	1	Opium	T40.0	2012	2012	0	3943077	Unreliable
+< 1 year	1	Opium	T40.0	2013	2013	0	3941783	Unreliable
+< 1 year	1	Opium	T40.0	2014	2014	0	3948350	Unreliable
+< 1 year	1	Opium	T40.0	2015	2015	0	3978038	Unreliable
+< 1 year	1	Opium	T40.0	2016	2016	0	3970145	Unreliable
+< 1 year	1	Opium	T40.0	2017	2017	0	3939295	Unreliable
+< 1 year	1	Opium	T40.0	2018	2018	0	3848208	Unreliable
+< 1 year	1	Opium	T40.0	2019	2019	0	3783052	Unreliable
+< 1 year	1	Heroin	T40.1	1999	1999	0	3795762	Unreliable
+< 1 year	1	Heroin	T40.1	2000	2000	0	3805648	Unreliable
+< 1 year	1	Heroin	T40.1	2001	2001	0	4012658	Unreliable
+< 1 year	1	Heroin	T40.1	2002	2002	0	3951461	Unreliable
+< 1 year	1	Heroin	T40.1	2003	2003	0	3975871	Unreliable
+< 1 year	1	Heroin	T40.1	2004	2004	0	4014258	Unreliable
+< 1 year	1	Heroin	T40.1	2005	2005	1	4004393	Unreliable
+< 1 year	1	Heroin	T40.1	2006	2006	1	4041738	Unreliable
+< 1 year	1	Heroin	T40.1	2007	2007	0	4147997	Unreliable
+< 1 year	1	Heroin	T40.1	2008	2008	0	4132735	Unreliable
+< 1 year	1	Heroin	T40.1	2009	2009	0	4003587	Unreliable
+< 1 year	1	Heroin	T40.1	2010	2010	0	3944153	Unreliable
+< 1 year	1	Heroin	T40.1	2011	2011	1	3996537	Unreliable
+< 1 year	1	Heroin	T40.1	2012	2012	2	3943077	Unreliable
+< 1 year	1	Heroin	T40.1	2013	2013	0	3941783	Unreliable
+< 1 year	1	Heroin	T40.1	2014	2014	0	3948350	Unreliable
+< 1 year	1	Heroin	T40.1	2015	2015	1	3978038	Unreliable
+< 1 year	1	Heroin	T40.1	2016	2016	1	3970145	Unreliable
+< 1 year	1	Heroin	T40.1	2017	2017	1	3939295	Unreliable
+< 1 year	1	Heroin	T40.1	2018	2018	4	3848208	Unreliable
+< 1 year	1	Heroin	T40.1	2019	2019	4	3783052	Unreliable
+< 1 year	1	Other opioids	T40.2	1999	1999	2	3795762	Unreliable
+< 1 year	1	Other opioids	T40.2	2000	2000	5	3805648	Unreliable
+< 1 year	1	Other opioids	T40.2	2001	2001	4	4012658	Unreliable
+< 1 year	1	Other opioids	T40.2	2002	2002	5	3951461	Unreliable
+< 1 year	1	Other opioids	T40.2	2003	2003	5	3975871	Unreliable
+< 1 year	1	Other opioids	T40.2	2004	2004	4	4014258	Unreliable
+< 1 year	1	Other opioids	T40.2	2005	2005	3	4004393	Unreliable
+< 1 year	1	Other opioids	T40.2	2006	2006	4	4041738	Unreliable
+< 1 year	1	Other opioids	T40.2	2007	2007	6	4147997	Unreliable
+< 1 year	1	Other opioids	T40.2	2008	2008	1	4132735	Unreliable
+< 1 year	1	Other opioids	T40.2	2009	2009	3	4003587	Unreliable
+< 1 year	1	Other opioids	T40.2	2010	2010	8	3944153	Unreliable
+< 1 year	1	Other opioids	T40.2	2011	2011	7	3996537	Unreliable
+< 1 year	1	Other opioids	T40.2	2012	2012	12	3943077	Unreliable
+< 1 year	1	Other opioids	T40.2	2013	2013	7	3941783	Unreliable
+< 1 year	1	Other opioids	T40.2	2014	2014	4	3948350	Unreliable
+< 1 year	1	Other opioids	T40.2	2015	2015	6	3978038	Unreliable
+< 1 year	1	Other opioids	T40.2	2016	2016	7	3970145	Unreliable
+< 1 year	1	Other opioids	T40.2	2017	2017	7	3939295	Unreliable
+< 1 year	1	Other opioids	T40.2	2018	2018	5	3848208	Unreliable
+< 1 year	1	Other opioids	T40.2	2019	2019	5	3783052	Unreliable
+< 1 year	1	Methadone	T40.3	1999	1999	1	3795762	Unreliable
+< 1 year	1	Methadone	T40.3	2000	2000	1	3805648	Unreliable
+< 1 year	1	Methadone	T40.3	2001	2001	1	4012658	Unreliable
+< 1 year	1	Methadone	T40.3	2002	2002	3	3951461	Unreliable
+< 1 year	1	Methadone	T40.3	2003	2003	1	3975871	Unreliable
+< 1 year	1	Methadone	T40.3	2004	2004	6	4014258	Unreliable
+< 1 year	1	Methadone	T40.3	2005	2005	4	4004393	Unreliable
+< 1 year	1	Methadone	T40.3	2006	2006	4	4041738	Unreliable
+< 1 year	1	Methadone	T40.3	2007	2007	5	4147997	Unreliable
+< 1 year	1	Methadone	T40.3	2008	2008	7	4132735	Unreliable
+< 1 year	1	Methadone	T40.3	2009	2009	5	4003587	Unreliable
+< 1 year	1	Methadone	T40.3	2010	2010	5	3944153	Unreliable
+< 1 year	1	Methadone	T40.3	2011	2011	1	3996537	Unreliable
+< 1 year	1	Methadone	T40.3	2012	2012	3	3943077	Unreliable
+< 1 year	1	Methadone	T40.3	2013	2013	2	3941783	Unreliable
+< 1 year	1	Methadone	T40.3	2014	2014	2	3948350	Unreliable
+< 1 year	1	Methadone	T40.3	2015	2015	5	3978038	Unreliable
+< 1 year	1	Methadone	T40.3	2016	2016	4	3970145	Unreliable
+< 1 year	1	Methadone	T40.3	2017	2017	5	3939295	Unreliable
+< 1 year	1	Methadone	T40.3	2018	2018	4	3848208	Unreliable
+< 1 year	1	Methadone	T40.3	2019	2019	9	3783052	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	1999	1999	2	3795762	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2000	2000	1	3805648	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2001	2001	0	4012658	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2002	2002	0	3951461	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2003	2003	1	3975871	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2004	2004	0	4014258	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2005	2005	0	4004393	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2006	2006	3	4041738	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2007	2007	0	4147997	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2008	2008	1	4132735	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2009	2009	1	4003587	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2010	2010	0	3944153	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2011	2011	4	3996537	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2012	2012	3	3943077	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2013	2013	1	3941783	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2014	2014	3	3948350	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2015	2015	4	3978038	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2016	2016	3	3970145	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2017	2017	8	3939295	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2018	2018	7	3848208	Unreliable
+< 1 year	1	Other synthetic narcotics	T40.4	2019	2019	12	3783052	Unreliable
+< 1 year	1	Cocaine	T40.5	1999	1999	3	3795762	Unreliable
+< 1 year	1	Cocaine	T40.5	2000	2000	5	3805648	Unreliable
+< 1 year	1	Cocaine	T40.5	2001	2001	5	4012658	Unreliable
+< 1 year	1	Cocaine	T40.5	2002	2002	3	3951461	Unreliable
+< 1 year	1	Cocaine	T40.5	2003	2003	4	3975871	Unreliable
+< 1 year	1	Cocaine	T40.5	2004	2004	0	4014258	Unreliable
+< 1 year	1	Cocaine	T40.5	2005	2005	2	4004393	Unreliable
+< 1 year	1	Cocaine	T40.5	2006	2006	8	4041738	Unreliable
+< 1 year	1	Cocaine	T40.5	2007	2007	5	4147997	Unreliable
+< 1 year	1	Cocaine	T40.5	2008	2008	4	4132735	Unreliable
+< 1 year	1	Cocaine	T40.5	2009	2009	5	4003587	Unreliable
+< 1 year	1	Cocaine	T40.5	2010	2010	3	3944153	Unreliable
+< 1 year	1	Cocaine	T40.5	2011	2011	6	3996537	Unreliable
+< 1 year	1	Cocaine	T40.5	2012	2012	2	3943077	Unreliable
+< 1 year	1	Cocaine	T40.5	2013	2013	0	3941783	Unreliable
+< 1 year	1	Cocaine	T40.5	2014	2014	3	3948350	Unreliable
+< 1 year	1	Cocaine	T40.5	2015	2015	0	3978038	Unreliable
+< 1 year	1	Cocaine	T40.5	2016	2016	5	3970145	Unreliable
+< 1 year	1	Cocaine	T40.5	2017	2017	2	3939295	Unreliable
+< 1 year	1	Cocaine	T40.5	2018	2018	5	3848208	Unreliable
+< 1 year	1	Cocaine	T40.5	2019	2019	5	3783052	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	1999	1999	1	3795762	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2000	2000	0	3805648	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2001	2001	2	4012658	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2002	2002	0	3951461	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2003	2003	1	3975871	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2004	2004	0	4014258	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2005	2005	0	4004393	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2006	2006	1	4041738	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2007	2007	1	4147997	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2008	2008	1	4132735	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2009	2009	1	4003587	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2010	2010	1	3944153	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2011	2011	0	3996537	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2012	2012	0	3943077	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2013	2013	0	3941783	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2014	2014	0	3948350	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2015	2015	1	3978038	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2016	2016	2	3970145	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2017	2017	0	3939295	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2018	2018	0	3848208	Unreliable
+< 1 year	1	Other and unspecified narcotics	T40.6	2019	2019	1	3783052	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	1999	1999	0	3795762	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2000	2000	0	3805648	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2001	2001	0	4012658	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2002	2002	0	3951461	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2003	2003	0	3975871	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2004	2004	0	4014258	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2005	2005	0	4004393	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2006	2006	0	4041738	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2007	2007	1	4147997	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2008	2008	0	4132735	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2009	2009	0	4003587	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2010	2010	0	3944153	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2011	2011	0	3996537	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2012	2012	0	3943077	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2013	2013	0	3941783	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2014	2014	0	3948350	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2015	2015	0	3978038	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2016	2016	0	3970145	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2017	2017	0	3939295	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2018	2018	2	3848208	Unreliable
+< 1 year	1	Cannabis (derivatives)	T40.7	2019	2019	0	3783052	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	1999	1999	0	3795762	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2000	2000	0	3805648	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2001	2001	0	4012658	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2002	2002	0	3951461	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2003	2003	0	3975871	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2004	2004	0	4014258	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2005	2005	0	4004393	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2006	2006	0	4041738	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2007	2007	0	4147997	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2008	2008	0	4132735	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2009	2009	0	4003587	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2010	2010	0	3944153	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2011	2011	0	3996537	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2012	2012	0	3943077	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2013	2013	0	3941783	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2014	2014	0	3948350	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2015	2015	0	3978038	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2016	2016	0	3970145	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2017	2017	0	3939295	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2018	2018	0	3848208	Unreliable
+< 1 year	1	Lysergide [LSD]	T40.8	2019	2019	0	3783052	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	1999	1999	0	3795762	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2000	2000	0	3805648	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2001	2001	0	4012658	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2002	2002	0	3951461	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2003	2003	0	3975871	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2004	2004	0	4014258	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2005	2005	0	4004393	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2006	2006	0	4041738	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2007	2007	0	4147997	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2008	2008	0	4132735	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2009	2009	0	4003587	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2010	2010	0	3944153	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2011	2011	0	3996537	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2012	2012	0	3943077	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2013	2013	0	3941783	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2014	2014	0	3948350	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2015	2015	0	3978038	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2016	2016	0	3970145	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2017	2017	0	3939295	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2018	2018	0	3848208	Unreliable
+< 1 year	1	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2019	2019	0	3783052	Unreliable
+1-4 years	4-Jan	Opium	T40.0	1999	1999	0	15339782	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2000	2000	0	15370150	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2001	2001	0	15285559	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2002	2002	0	15477731	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2003	2003	0	15616575	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2004	2004	0	15771627	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2005	2005	0	15913007	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2006	2006	0	15897145	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2007	2007	0	15977965	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2008	2008	0	16138392	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2009	2009	0	16240931	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2010	2010	0	16257209	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2011	2011	0	16165521	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2012	2012	0	16056267	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2013	2013	0	15926305	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2014	2014	0	15928533	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2015	2015	0	15929243	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2016	2016	0	15956892	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2017	2017	0	15999565	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2018	2018	0	15962067	Unreliable
+1-4 years	4-Jan	Opium	T40.0	2019	2019	0	15793631	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	1999	1999	0	15339782	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2000	2000	0	15370150	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2001	2001	0	15285559	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2002	2002	0	15477731	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2003	2003	0	15616575	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2004	2004	0	15771627	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2005	2005	0	15913007	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2006	2006	1	15897145	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2007	2007	1	15977965	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2008	2008	0	16138392	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2009	2009	0	16240931	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2010	2010	0	16257209	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2011	2011	0	16165521	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2012	2012	0	16056267	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2013	2013	0	15926305	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2014	2014	0	15928533	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2015	2015	4	15929243	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2016	2016	1	15956892	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2017	2017	1	15999565	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2018	2018	2	15962067	Unreliable
+1-4 years	4-Jan	Heroin	T40.1	2019	2019	3	15793631	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	1999	1999	3	15339782	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2000	2000	3	15370150	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2001	2001	9	15285559	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2002	2002	8	15477731	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2003	2003	13	15616575	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2004	2004	11	15771627	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2005	2005	15	15913007	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2006	2006	14	15897145	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2007	2007	16	15977965	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2008	2008	25	16138392	0.2
+1-4 years	4-Jan	Other opioids	T40.2	2009	2009	18	16240931	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2010	2010	14	16257209	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2011	2011	20	16165521	0.1
+1-4 years	4-Jan	Other opioids	T40.2	2012	2012	13	16056267	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2013	2013	17	15926305	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2014	2014	21	15928533	0.1
+1-4 years	4-Jan	Other opioids	T40.2	2015	2015	25	15929243	0.2
+1-4 years	4-Jan	Other opioids	T40.2	2016	2016	22	15956892	0.1
+1-4 years	4-Jan	Other opioids	T40.2	2017	2017	11	15999565	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2018	2018	7	15962067	Unreliable
+1-4 years	4-Jan	Other opioids	T40.2	2019	2019	7	15793631	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	1999	1999	3	15339782	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2000	2000	4	15370150	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2001	2001	3	15285559	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2002	2002	5	15477731	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2003	2003	5	15616575	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2004	2004	7	15771627	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2005	2005	4	15913007	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2006	2006	6	15897145	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2007	2007	12	15977965	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2008	2008	9	16138392	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2009	2009	7	16240931	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2010	2010	9	16257209	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2011	2011	5	16165521	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2012	2012	8	16056267	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2013	2013	9	15926305	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2014	2014	8	15928533	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2015	2015	8	15929243	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2016	2016	9	15956892	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2017	2017	5	15999565	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2018	2018	8	15962067	Unreliable
+1-4 years	4-Jan	Methadone	T40.3	2019	2019	6	15793631	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	1999	1999	0	15339782	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2000	2000	2	15370150	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2001	2001	0	15285559	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2002	2002	1	15477731	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2003	2003	0	15616575	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2004	2004	0	15771627	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2005	2005	5	15913007	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2006	2006	4	15897145	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2007	2007	3	15977965	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2008	2008	3	16138392	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2009	2009	2	16240931	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2010	2010	3	16257209	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2011	2011	7	16165521	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2012	2012	3	16056267	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2013	2013	3	15926305	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2014	2014	6	15928533	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2015	2015	7	15929243	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2016	2016	5	15956892	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2017	2017	13	15999565	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2018	2018	14	15962067	Unreliable
+1-4 years	4-Jan	Other synthetic narcotics	T40.4	2019	2019	30	15793631	0.2
+1-4 years	4-Jan	Cocaine	T40.5	1999	1999	0	15339782	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2000	2000	1	15370150	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2001	2001	0	15285559	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2002	2002	2	15477731	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2003	2003	1	15616575	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2004	2004	0	15771627	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2005	2005	2	15913007	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2006	2006	2	15897145	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2007	2007	2	15977965	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2008	2008	2	16138392	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2009	2009	0	16240931	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2010	2010	0	16257209	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2011	2011	0	16165521	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2012	2012	1	16056267	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2013	2013	0	15926305	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2014	2014	2	15928533	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2015	2015	1	15929243	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2016	2016	0	15956892	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2017	2017	0	15999565	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2018	2018	6	15962067	Unreliable
+1-4 years	4-Jan	Cocaine	T40.5	2019	2019	3	15793631	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	1999	1999	1	15339782	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2000	2000	1	15370150	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2001	2001	2	15285559	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2002	2002	2	15477731	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2003	2003	0	15616575	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2004	2004	0	15771627	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2005	2005	1	15913007	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2006	2006	1	15897145	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2007	2007	2	15977965	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2008	2008	3	16138392	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2009	2009	1	16240931	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2010	2010	1	16257209	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2011	2011	0	16165521	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2012	2012	4	16056267	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2013	2013	3	15926305	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2014	2014	1	15928533	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2015	2015	2	15929243	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2016	2016	2	15956892	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2017	2017	0	15999565	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2018	2018	2	15962067	Unreliable
+1-4 years	4-Jan	Other and unspecified narcotics	T40.6	2019	2019	2	15793631	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	1999	1999	0	15339782	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2000	2000	0	15370150	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2001	2001	0	15285559	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2002	2002	0	15477731	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2003	2003	0	15616575	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2004	2004	0	15771627	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2005	2005	0	15913007	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2006	2006	0	15897145	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2007	2007	0	15977965	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2008	2008	0	16138392	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2009	2009	0	16240931	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2010	2010	0	16257209	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2011	2011	0	16165521	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2012	2012	0	16056267	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2013	2013	0	15926305	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2014	2014	0	15928533	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2015	2015	0	15929243	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2016	2016	1	15956892	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2017	2017	0	15999565	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2018	2018	0	15962067	Unreliable
+1-4 years	4-Jan	Cannabis (derivatives)	T40.7	2019	2019	0	15793631	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	1999	1999	0	15339782	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2000	2000	0	15370150	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2001	2001	0	15285559	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2002	2002	0	15477731	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2003	2003	0	15616575	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2004	2004	0	15771627	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2005	2005	0	15913007	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2006	2006	0	15897145	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2007	2007	0	15977965	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2008	2008	0	16138392	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2009	2009	0	16240931	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2010	2010	0	16257209	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2011	2011	0	16165521	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2012	2012	0	16056267	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2013	2013	0	15926305	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2014	2014	0	15928533	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2015	2015	0	15929243	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2016	2016	0	15956892	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2017	2017	0	15999565	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2018	2018	0	15962067	Unreliable
+1-4 years	4-Jan	Lysergide [LSD]	T40.8	2019	2019	0	15793631	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	1999	1999	0	15339782	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2000	2000	0	15370150	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2001	2001	0	15285559	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2002	2002	0	15477731	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2003	2003	0	15616575	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2004	2004	0	15771627	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2005	2005	0	15913007	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2006	2006	0	15897145	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2007	2007	0	15977965	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2008	2008	0	16138392	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2009	2009	0	16240931	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2010	2010	0	16257209	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2011	2011	0	16165521	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2012	2012	0	16056267	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2013	2013	0	15926305	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2014	2014	0	15928533	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2015	2015	0	15929243	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2016	2016	0	15956892	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2017	2017	0	15999565	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2018	2018	0	15962067	Unreliable
+1-4 years	4-Jan	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2019	2019	0	15793631	Unreliable
+5-14 years	14-May	Opium	T40.0	1999	1999	0	40819824	Unreliable
+5-14 years	14-May	Opium	T40.0	2000	2000	0	41077577	Unreliable
+5-14 years	14-May	Opium	T40.0	2001	2001	0	41152040	Unreliable
+5-14 years	14-May	Opium	T40.0	2002	2002	0	41133838	Unreliable
+5-14 years	14-May	Opium	T40.0	2003	2003	0	41036204	Unreliable
+5-14 years	14-May	Opium	T40.0	2004	2004	0	40865917	Unreliable
+5-14 years	14-May	Opium	T40.0	2005	2005	0	40601646	Unreliable
+5-14 years	14-May	Opium	T40.0	2006	2006	0	40577826	Unreliable
+5-14 years	14-May	Opium	T40.0	2007	2007	0	40555653	Unreliable
+5-14 years	14-May	Opium	T40.0	2008	2008	0	40636257	Unreliable
+5-14 years	14-May	Opium	T40.0	2009	2009	0	40843063	Unreliable
+5-14 years	14-May	Opium	T40.0	2010	2010	0	41025851	Unreliable
+5-14 years	14-May	Opium	T40.0	2011	2011	0	41039048	Unreliable
+5-14 years	14-May	Opium	T40.0	2012	2012	0	41144754	Unreliable
+5-14 years	14-May	Opium	T40.0	2013	2013	0	41221035	Unreliable
+5-14 years	14-May	Opium	T40.0	2014	2014	0	41191072	Unreliable
+5-14 years	14-May	Opium	T40.0	2015	2015	0	41109506	Unreliable
+5-14 years	14-May	Opium	T40.0	2016	2016	0	41048032	Unreliable
+5-14 years	14-May	Opium	T40.0	2017	2017	0	41082692	Unreliable
+5-14 years	14-May	Opium	T40.0	2018	2018	0	41075169	Unreliable
+5-14 years	14-May	Opium	T40.0	2019	2019	0	40994163	Unreliable
+5-14 years	14-May	Heroin	T40.1	1999	1999	1	40819824	Unreliable
+5-14 years	14-May	Heroin	T40.1	2000	2000	0	41077577	Unreliable
+5-14 years	14-May	Heroin	T40.1	2001	2001	2	41152040	Unreliable
+5-14 years	14-May	Heroin	T40.1	2002	2002	0	41133838	Unreliable
+5-14 years	14-May	Heroin	T40.1	2003	2003	0	41036204	Unreliable
+5-14 years	14-May	Heroin	T40.1	2004	2004	1	40865917	Unreliable
+5-14 years	14-May	Heroin	T40.1	2005	2005	1	40601646	Unreliable
+5-14 years	14-May	Heroin	T40.1	2006	2006	1	40577826	Unreliable
+5-14 years	14-May	Heroin	T40.1	2007	2007	0	40555653	Unreliable
+5-14 years	14-May	Heroin	T40.1	2008	2008	0	40636257	Unreliable
+5-14 years	14-May	Heroin	T40.1	2009	2009	1	40843063	Unreliable
+5-14 years	14-May	Heroin	T40.1	2010	2010	0	41025851	Unreliable
+5-14 years	14-May	Heroin	T40.1	2011	2011	0	41039048	Unreliable
+5-14 years	14-May	Heroin	T40.1	2012	2012	3	41144754	Unreliable
+5-14 years	14-May	Heroin	T40.1	2013	2013	0	41221035	Unreliable
+5-14 years	14-May	Heroin	T40.1	2014	2014	1	41191072	Unreliable
+5-14 years	14-May	Heroin	T40.1	2015	2015	1	41109506	Unreliable
+5-14 years	14-May	Heroin	T40.1	2016	2016	1	41048032	Unreliable
+5-14 years	14-May	Heroin	T40.1	2017	2017	2	41082692	Unreliable
+5-14 years	14-May	Heroin	T40.1	2018	2018	0	41075169	Unreliable
+5-14 years	14-May	Heroin	T40.1	2019	2019	1	40994163	Unreliable
+5-14 years	14-May	Other opioids	T40.2	1999	1999	6	40819824	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2000	2000	10	41077577	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2001	2001	12	41152040	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2002	2002	8	41133838	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2003	2003	9	41036204	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2004	2004	20	40865917	0
+5-14 years	14-May	Other opioids	T40.2	2005	2005	8	40601646	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2006	2006	11	40577826	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2007	2007	19	40555653	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2008	2008	19	40636257	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2009	2009	17	40843063	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2010	2010	20	41025851	0
+5-14 years	14-May	Other opioids	T40.2	2011	2011	17	41039048	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2012	2012	13	41144754	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2013	2013	16	41221035	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2014	2014	17	41191072	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2015	2015	19	41109506	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2016	2016	19	41048032	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2017	2017	18	41082692	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2018	2018	10	41075169	Unreliable
+5-14 years	14-May	Other opioids	T40.2	2019	2019	13	40994163	Unreliable
+5-14 years	14-May	Methadone	T40.3	1999	1999	0	40819824	Unreliable
+5-14 years	14-May	Methadone	T40.3	2000	2000	3	41077577	Unreliable
+5-14 years	14-May	Methadone	T40.3	2001	2001	1	41152040	Unreliable
+5-14 years	14-May	Methadone	T40.3	2002	2002	7	41133838	Unreliable
+5-14 years	14-May	Methadone	T40.3	2003	2003	7	41036204	Unreliable
+5-14 years	14-May	Methadone	T40.3	2004	2004	9	40865917	Unreliable
+5-14 years	14-May	Methadone	T40.3	2005	2005	14	40601646	Unreliable
+5-14 years	14-May	Methadone	T40.3	2006	2006	18	40577826	Unreliable
+5-14 years	14-May	Methadone	T40.3	2007	2007	11	40555653	Unreliable
+5-14 years	14-May	Methadone	T40.3	2008	2008	18	40636257	Unreliable
+5-14 years	14-May	Methadone	T40.3	2009	2009	4	40843063	Unreliable
+5-14 years	14-May	Methadone	T40.3	2010	2010	15	41025851	Unreliable
+5-14 years	14-May	Methadone	T40.3	2011	2011	7	41039048	Unreliable
+5-14 years	14-May	Methadone	T40.3	2012	2012	4	41144754	Unreliable
+5-14 years	14-May	Methadone	T40.3	2013	2013	5	41221035	Unreliable
+5-14 years	14-May	Methadone	T40.3	2014	2014	5	41191072	Unreliable
+5-14 years	14-May	Methadone	T40.3	2015	2015	3	41109506	Unreliable
+5-14 years	14-May	Methadone	T40.3	2016	2016	6	41048032	Unreliable
+5-14 years	14-May	Methadone	T40.3	2017	2017	6	41082692	Unreliable
+5-14 years	14-May	Methadone	T40.3	2018	2018	4	41075169	Unreliable
+5-14 years	14-May	Methadone	T40.3	2019	2019	6	40994163	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	1999	1999	0	40819824	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2000	2000	2	41077577	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2001	2001	0	41152040	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2002	2002	4	41133838	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2003	2003	3	41036204	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2004	2004	0	40865917	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2005	2005	2	40601646	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2006	2006	1	40577826	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2007	2007	8	40555653	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2008	2008	2	40636257	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2009	2009	3	40843063	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2010	2010	9	41025851	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2011	2011	4	41039048	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2012	2012	4	41144754	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2013	2013	1	41221035	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2014	2014	3	41191072	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2015	2015	4	41109506	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2016	2016	10	41048032	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2017	2017	13	41082692	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2018	2018	10	41075169	Unreliable
+5-14 years	14-May	Other synthetic narcotics	T40.4	2019	2019	17	40994163	Unreliable
+5-14 years	14-May	Cocaine	T40.5	1999	1999	2	40819824	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2000	2000	0	41077577	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2001	2001	2	41152040	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2002	2002	1	41133838	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2003	2003	1	41036204	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2004	2004	3	40865917	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2005	2005	2	40601646	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2006	2006	1	40577826	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2007	2007	0	40555653	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2008	2008	1	40636257	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2009	2009	0	40843063	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2010	2010	0	41025851	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2011	2011	2	41039048	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2012	2012	1	41144754	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2013	2013	0	41221035	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2014	2014	0	41191072	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2015	2015	0	41109506	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2016	2016	1	41048032	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2017	2017	0	41082692	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2018	2018	0	41075169	Unreliable
+5-14 years	14-May	Cocaine	T40.5	2019	2019	2	40994163	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	1999	1999	1	40819824	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2000	2000	2	41077577	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2001	2001	3	41152040	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2002	2002	1	41133838	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2003	2003	0	41036204	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2004	2004	3	40865917	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2005	2005	4	40601646	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2006	2006	2	40577826	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2007	2007	7	40555653	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2008	2008	2	40636257	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2009	2009	4	40843063	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2010	2010	3	41025851	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2011	2011	2	41039048	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2012	2012	0	41144754	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2013	2013	0	41221035	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2014	2014	1	41191072	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2015	2015	3	41109506	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2016	2016	1	41048032	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2017	2017	1	41082692	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2018	2018	0	41075169	Unreliable
+5-14 years	14-May	Other and unspecified narcotics	T40.6	2019	2019	0	40994163	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	1999	1999	1	40819824	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2000	2000	1	41077577	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2001	2001	0	41152040	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2002	2002	0	41133838	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2003	2003	0	41036204	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2004	2004	0	40865917	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2005	2005	1	40601646	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2006	2006	0	40577826	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2007	2007	0	40555653	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2008	2008	1	40636257	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2009	2009	0	40843063	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2010	2010	0	41025851	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2011	2011	2	41039048	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2012	2012	1	41144754	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2013	2013	0	41221035	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2014	2014	0	41191072	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2015	2015	2	41109506	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2016	2016	0	41048032	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2017	2017	2	41082692	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2018	2018	1	41075169	Unreliable
+5-14 years	14-May	Cannabis (derivatives)	T40.7	2019	2019	2	40994163	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	1999	1999	0	40819824	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2000	2000	0	41077577	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2001	2001	0	41152040	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2002	2002	0	41133838	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2003	2003	0	41036204	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2004	2004	0	40865917	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2005	2005	0	40601646	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2006	2006	0	40577826	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2007	2007	0	40555653	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2008	2008	0	40636257	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2009	2009	0	40843063	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2010	2010	0	41025851	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2011	2011	0	41039048	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2012	2012	0	41144754	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2013	2013	0	41221035	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2014	2014	0	41191072	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2015	2015	0	41109506	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2016	2016	0	41048032	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2017	2017	0	41082692	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2018	2018	0	41075169	Unreliable
+5-14 years	14-May	Lysergide [LSD]	T40.8	2019	2019	2	40994163	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	1999	1999	0	40819824	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2000	2000	0	41077577	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2001	2001	0	41152040	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2002	2002	0	41133838	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2003	2003	0	41036204	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2004	2004	0	40865917	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2005	2005	0	40601646	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2006	2006	0	40577826	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2007	2007	0	40555653	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2008	2008	0	40636257	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2009	2009	0	40843063	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2010	2010	0	41025851	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2011	2011	0	41039048	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2012	2012	0	41144754	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2013	2013	0	41221035	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2014	2014	0	41191072	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2015	2015	0	41109506	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2016	2016	0	41048032	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2017	2017	0	41082692	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2018	2018	0	41075169	Unreliable
+5-14 years	14-May	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2019	2019	1	40994163	Unreliable
+15-24 years	15-24	Opium	T40.0	1999	1999	1	38676031	Unreliable
+15-24 years	15-24	Opium	T40.0	2000	2000	1	39183891	Unreliable
+15-24 years	15-24	Opium	T40.0	2001	2001	1	40213570	Unreliable
+15-24 years	15-24	Opium	T40.0	2002	2002	1	40854135	Unreliable
+15-24 years	15-24	Opium	T40.0	2003	2003	0	41388854	Unreliable
+15-24 years	15-24	Opium	T40.0	2004	2004	0	41948112	Unreliable
+15-24 years	15-24	Opium	T40.0	2005	2005	1	42446169	Unreliable
+15-24 years	15-24	Opium	T40.0	2006	2006	1	42843844	Unreliable
+15-24 years	15-24	Opium	T40.0	2007	2007	1	43145815	Unreliable
+15-24 years	15-24	Opium	T40.0	2008	2008	0	43391492	Unreliable
+15-24 years	15-24	Opium	T40.0	2009	2009	0	43576932	Unreliable
+15-24 years	15-24	Opium	T40.0	2010	2010	1	43626342	Unreliable
+15-24 years	15-24	Opium	T40.0	2011	2011	0	43797875	Unreliable
+15-24 years	15-24	Opium	T40.0	2012	2012	1	43943905	Unreliable
+15-24 years	15-24	Opium	T40.0	2013	2013	1	43954402	Unreliable
+15-24 years	15-24	Opium	T40.0	2014	2014	0	43979821	Unreliable
+15-24 years	15-24	Opium	T40.0	2015	2015	0	43848216	Unreliable
+15-24 years	15-24	Opium	T40.0	2016	2016	0	43511027	Unreliable
+15-24 years	15-24	Opium	T40.0	2017	2017	1	43250295	Unreliable
+15-24 years	15-24	Opium	T40.0	2018	2018	0	42970800	Unreliable
+15-24 years	15-24	Opium	T40.0	2019	2019	0	42687510	Unreliable
+15-24 years	15-24	Heroin	T40.1	1999	1999	206	38676031	0.5
+15-24 years	15-24	Heroin	T40.1	2000	2000	232	39183891	0.6
+15-24 years	15-24	Heroin	T40.1	2001	2001	225	40213570	0.6
+15-24 years	15-24	Heroin	T40.1	2002	2002	246	40854135	0.6
+15-24 years	15-24	Heroin	T40.1	2003	2003	269	41388854	0.6
+15-24 years	15-24	Heroin	T40.1	2004	2004	271	41948112	0.6
+15-24 years	15-24	Heroin	T40.1	2005	2005	296	42446169	0.7
+15-24 years	15-24	Heroin	T40.1	2006	2006	327	42843844	0.8
+15-24 years	15-24	Heroin	T40.1	2007	2007	369	43145815	0.9
+15-24 years	15-24	Heroin	T40.1	2008	2008	500	43391492	1.2
+15-24 years	15-24	Heroin	T40.1	2009	2009	521	43576932	1.2
+15-24 years	15-24	Heroin	T40.1	2010	2010	543	43626342	1.2
+15-24 years	15-24	Heroin	T40.1	2011	2011	816	43797875	1.9
+15-24 years	15-24	Heroin	T40.1	2012	2012	970	43943905	2.2
+15-24 years	15-24	Heroin	T40.1	2013	2013	1277	43954402	2.9
+15-24 years	15-24	Heroin	T40.1	2014	2014	1468	43979821	3.3
+15-24 years	15-24	Heroin	T40.1	2015	2015	1672	43848216	3.8
+15-24 years	15-24	Heroin	T40.1	2016	2016	1754	43511027	4
+15-24 years	15-24	Heroin	T40.1	2017	2017	1471	43250295	3.4
+15-24 years	15-24	Heroin	T40.1	2018	2018	1171	42970800	2.7
+15-24 years	15-24	Heroin	T40.1	2019	2019	887	42687510	2.1
+15-24 years	15-24	Other opioids	T40.2	1999	1999	192	38676031	0.5
+15-24 years	15-24	Other opioids	T40.2	2000	2000	222	39183891	0.6
+15-24 years	15-24	Other opioids	T40.2	2001	2001	358	40213570	0.9
+15-24 years	15-24	Other opioids	T40.2	2002	2002	376	40854135	0.9
+15-24 years	15-24	Other opioids	T40.2	2003	2003	458	41388854	1.1
+15-24 years	15-24	Other opioids	T40.2	2004	2004	517	41948112	1.2
+15-24 years	15-24	Other opioids	T40.2	2005	2005	541	42446169	1.3
+15-24 years	15-24	Other opioids	T40.2	2006	2006	704	42843844	1.6
+15-24 years	15-24	Other opioids	T40.2	2007	2007	791	43145815	1.8
+15-24 years	15-24	Other opioids	T40.2	2008	2008	874	43391492	2
+15-24 years	15-24	Other opioids	T40.2	2009	2009	884	43576932	2
+15-24 years	15-24	Other opioids	T40.2	2010	2010	1081	43626342	2.5
+15-24 years	15-24	Other opioids	T40.2	2011	2011	1062	43797875	2.4
+15-24 years	15-24	Other opioids	T40.2	2012	2012	848	43943905	1.9
+15-24 years	15-24	Other opioids	T40.2	2013	2013	779	43954402	1.8
+15-24 years	15-24	Other opioids	T40.2	2014	2014	747	43979821	1.7
+15-24 years	15-24	Other opioids	T40.2	2015	2015	744	43848216	1.7
+15-24 years	15-24	Other opioids	T40.2	2016	2016	1010	43511027	2.3
+15-24 years	15-24	Other opioids	T40.2	2017	2017	927	43250295	2.1
+15-24 years	15-24	Other opioids	T40.2	2018	2018	704	42970800	1.6
+15-24 years	15-24	Other opioids	T40.2	2019	2019	621	42687510	1.5
+15-24 years	15-24	Methadone	T40.3	1999	1999	53	38676031	0.1
+15-24 years	15-24	Methadone	T40.3	2000	2000	85	39183891	0.2
+15-24 years	15-24	Methadone	T40.3	2001	2001	166	40213570	0.4
+15-24 years	15-24	Methadone	T40.3	2002	2002	302	40854135	0.7
+15-24 years	15-24	Methadone	T40.3	2003	2003	451	41388854	1.1
+15-24 years	15-24	Methadone	T40.3	2004	2004	610	41948112	1.5
+15-24 years	15-24	Methadone	T40.3	2005	2005	615	42446169	1.4
+15-24 years	15-24	Methadone	T40.3	2006	2006	835	42843844	1.9
+15-24 years	15-24	Methadone	T40.3	2007	2007	876	43145815	2
+15-24 years	15-24	Methadone	T40.3	2008	2008	711	43391492	1.6
+15-24 years	15-24	Methadone	T40.3	2009	2009	634	43576932	1.5
+15-24 years	15-24	Methadone	T40.3	2010	2010	569	43626342	1.3
+15-24 years	15-24	Methadone	T40.3	2011	2011	485	43797875	1.1
+15-24 years	15-24	Methadone	T40.3	2012	2012	345	43943905	0.8
+15-24 years	15-24	Methadone	T40.3	2013	2013	277	43954402	0.6
+15-24 years	15-24	Methadone	T40.3	2014	2014	241	43979821	0.5
+15-24 years	15-24	Methadone	T40.3	2015	2015	202	43848216	0.5
+15-24 years	15-24	Methadone	T40.3	2016	2016	187	43511027	0.4
+15-24 years	15-24	Methadone	T40.3	2017	2017	171	43250295	0.4
+15-24 years	15-24	Methadone	T40.3	2018	2018	127	42970800	0.3
+15-24 years	15-24	Methadone	T40.3	2019	2019	81	42687510	0.2
+15-24 years	15-24	Other synthetic narcotics	T40.4	1999	1999	34	38676031	0.1
+15-24 years	15-24	Other synthetic narcotics	T40.4	2000	2000	40	39183891	0.1
+15-24 years	15-24	Other synthetic narcotics	T40.4	2001	2001	57	40213570	0.1
+15-24 years	15-24	Other synthetic narcotics	T40.4	2002	2002	85	40854135	0.2
+15-24 years	15-24	Other synthetic narcotics	T40.4	2003	2003	110	41388854	0.3
+15-24 years	15-24	Other synthetic narcotics	T40.4	2004	2004	124	41948112	0.3
+15-24 years	15-24	Other synthetic narcotics	T40.4	2005	2005	134	42446169	0.3
+15-24 years	15-24	Other synthetic narcotics	T40.4	2006	2006	289	42843844	0.7
+15-24 years	15-24	Other synthetic narcotics	T40.4	2007	2007	180	43145815	0.4
+15-24 years	15-24	Other synthetic narcotics	T40.4	2008	2008	190	43391492	0.4
+15-24 years	15-24	Other synthetic narcotics	T40.4	2009	2009	208	43576932	0.5
+15-24 years	15-24	Other synthetic narcotics	T40.4	2010	2010	236	43626342	0.5
+15-24 years	15-24	Other synthetic narcotics	T40.4	2011	2011	223	43797875	0.5
+15-24 years	15-24	Other synthetic narcotics	T40.4	2012	2012	179	43943905	0.4
+15-24 years	15-24	Other synthetic narcotics	T40.4	2013	2013	239	43954402	0.5
+15-24 years	15-24	Other synthetic narcotics	T40.4	2014	2014	523	43979821	1.2
+15-24 years	15-24	Other synthetic narcotics	T40.4	2015	2015	1010	43848216	2.3
+15-24 years	15-24	Other synthetic narcotics	T40.4	2016	2016	1976	43511027	4.5
+15-24 years	15-24	Other synthetic narcotics	T40.4	2017	2017	2673	43250295	6.2
+15-24 years	15-24	Other synthetic narcotics	T40.4	2018	2018	2662	42970800	6.2
+15-24 years	15-24	Other synthetic narcotics	T40.4	2019	2019	3063	42687510	7.2
+15-24 years	15-24	Cocaine	T40.5	1999	1999	291	38676031	0.8
+15-24 years	15-24	Cocaine	T40.5	2000	2000	305	39183891	0.8
+15-24 years	15-24	Cocaine	T40.5	2001	2001	299	40213570	0.7
+15-24 years	15-24	Cocaine	T40.5	2002	2002	416	40854135	1
+15-24 years	15-24	Cocaine	T40.5	2003	2003	511	41388854	1.2
+15-24 years	15-24	Cocaine	T40.5	2004	2004	540	41948112	1.3
+15-24 years	15-24	Cocaine	T40.5	2005	2005	598	42446169	1.4
+15-24 years	15-24	Cocaine	T40.5	2006	2006	734	42843844	1.7
+15-24 years	15-24	Cocaine	T40.5	2007	2007	596	43145815	1.4
+15-24 years	15-24	Cocaine	T40.5	2008	2008	401	43391492	0.9
+15-24 years	15-24	Cocaine	T40.5	2009	2009	288	43576932	0.7
+15-24 years	15-24	Cocaine	T40.5	2010	2010	278	43626342	0.6
+15-24 years	15-24	Cocaine	T40.5	2011	2011	328	43797875	0.7
+15-24 years	15-24	Cocaine	T40.5	2012	2012	281	43943905	0.6
+15-24 years	15-24	Cocaine	T40.5	2013	2013	285	43954402	0.6
+15-24 years	15-24	Cocaine	T40.5	2014	2014	347	43979821	0.8
+15-24 years	15-24	Cocaine	T40.5	2015	2015	460	43848216	1
+15-24 years	15-24	Cocaine	T40.5	2016	2016	793	43511027	1.8
+15-24 years	15-24	Cocaine	T40.5	2017	2017	965	43250295	2.2
+15-24 years	15-24	Cocaine	T40.5	2018	2018	887	42970800	2.1
+15-24 years	15-24	Cocaine	T40.5	2019	2019	881	42687510	2.1
+15-24 years	15-24	Other and unspecified narcotics	T40.6	1999	1999	239	38676031	0.6
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2000	2000	265	39183891	0.7
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2001	2001	286	40213570	0.7
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2002	2002	321	40854135	0.8
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2003	2003	321	41388854	0.8
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2004	2004	301	41948112	0.7
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2005	2005	353	42446169	0.8
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2006	2006	324	42843844	0.8
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2007	2007	280	43145815	0.6
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2008	2008	352	43391492	0.8
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2009	2009	337	43576932	0.8
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2010	2010	310	43626342	0.7
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2011	2011	361	43797875	0.8
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2012	2012	344	43943905	0.8
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2013	2013	310	43954402	0.7
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2014	2014	279	43979821	0.6
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2015	2015	266	43848216	0.6
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2016	2016	267	43511027	0.6
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2017	2017	184	43250295	0.4
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2018	2018	117	42970800	0.3
+15-24 years	15-24	Other and unspecified narcotics	T40.6	2019	2019	88	42687510	0.2
+15-24 years	15-24	Cannabis (derivatives)	T40.7	1999	1999	12	38676031	Unreliable
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2000	2000	15	39183891	Unreliable
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2001	2001	12	40213570	Unreliable
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2002	2002	20	40854135	0
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2003	2003	22	41388854	0.1
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2004	2004	33	41948112	0.1
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2005	2005	41	42446169	0.1
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2006	2006	47	42843844	0.1
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2007	2007	47	43145815	0.1
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2008	2008	42	43391492	0.1
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2009	2009	49	43576932	0.1
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2010	2010	71	43626342	0.2
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2011	2011	73	43797875	0.2
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2012	2012	74	43943905	0.2
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2013	2013	81	43954402	0.2
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2014	2014	92	43979821	0.2
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2015	2015	102	43848216	0.2
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2016	2016	142	43511027	0.3
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2017	2017	145	43250295	0.3
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2018	2018	148	42970800	0.3
+15-24 years	15-24	Cannabis (derivatives)	T40.7	2019	2019	179	42687510	0.4
+15-24 years	15-24	Lysergide [LSD]	T40.8	1999	1999	3	38676031	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2000	2000	3	39183891	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2001	2001	2	40213570	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2002	2002	1	40854135	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2003	2003	1	41388854	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2004	2004	1	41948112	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2005	2005	1	42446169	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2006	2006	0	42843844	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2007	2007	2	43145815	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2008	2008	0	43391492	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2009	2009	1	43576932	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2010	2010	0	43626342	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2011	2011	0	43797875	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2012	2012	1	43943905	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2013	2013	5	43954402	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2014	2014	4	43979821	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2015	2015	1	43848216	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2016	2016	2	43511027	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2017	2017	12	43250295	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2018	2018	9	42970800	Unreliable
+15-24 years	15-24	Lysergide [LSD]	T40.8	2019	2019	12	42687510	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	1999	1999	2	38676031	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2000	2000	3	39183891	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2001	2001	2	40213570	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2002	2002	3	40854135	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2003	2003	2	41388854	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2004	2004	3	41948112	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2005	2005	1	42446169	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2006	2006	1	42843844	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2007	2007	1	43145815	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2008	2008	3	43391492	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2009	2009	5	43576932	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2010	2010	3	43626342	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2011	2011	5	43797875	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2012	2012	5	43943905	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2013	2013	1	43954402	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2014	2014	9	43979821	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2015	2015	9	43848216	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2016	2016	2	43511027	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2017	2017	3	43250295	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2018	2018	4	42970800	Unreliable
+15-24 years	15-24	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2019	2019	1	42687510	Unreliable
+25-34 years	25-34	Opium	T40.0	1999	1999	2	40178406	Unreliable
+25-34 years	25-34	Opium	T40.0	2000	2000	0	39891724	Unreliable
+25-34 years	25-34	Opium	T40.0	2001	2001	0	39471522	Unreliable
+25-34 years	25-34	Opium	T40.0	2002	2002	1	39349646	Unreliable
+25-34 years	25-34	Opium	T40.0	2003	2003	2	39243795	Unreliable
+25-34 years	25-34	Opium	T40.0	2004	2004	0	39266556	Unreliable
+25-34 years	25-34	Opium	T40.0	2005	2005	0	39258647	Unreliable
+25-34 years	25-34	Opium	T40.0	2006	2006	0	39395179	Unreliable
+25-34 years	25-34	Opium	T40.0	2007	2007	0	39713463	Unreliable
+25-34 years	25-34	Opium	T40.0	2008	2008	0	40207473	Unreliable
+25-34 years	25-34	Opium	T40.0	2009	2009	0	40723342	Unreliable
+25-34 years	25-34	Opium	T40.0	2010	2010	1	41063948	Unreliable
+25-34 years	25-34	Opium	T40.0	2011	2011	0	41790498	Unreliable
+25-34 years	25-34	Opium	T40.0	2012	2012	0	42309321	Unreliable
+25-34 years	25-34	Opium	T40.0	2013	2013	2	42844587	Unreliable
+25-34 years	25-34	Opium	T40.0	2014	2014	0	43516504	Unreliable
+25-34 years	25-34	Opium	T40.0	2015	2015	0	44137202	Unreliable
+25-34 years	25-34	Opium	T40.0	2016	2016	3	44677243	Unreliable
+25-34 years	25-34	Opium	T40.0	2017	2017	2	45342672	Unreliable
+25-34 years	25-34	Opium	T40.0	2018	2018	1	45697774	Unreliable
+25-34 years	25-34	Opium	T40.0	2019	2019	1	45940321	Unreliable
+25-34 years	25-34	Heroin	T40.1	1999	1999	423	40178406	1.1
+25-34 years	25-34	Heroin	T40.1	2000	2000	438	39891724	1.1
+25-34 years	25-34	Heroin	T40.1	2001	2001	404	39471522	1
+25-34 years	25-34	Heroin	T40.1	2002	2002	444	39349646	1.1
+25-34 years	25-34	Heroin	T40.1	2003	2003	469	39243795	1.2
+25-34 years	25-34	Heroin	T40.1	2004	2004	478	39266556	1.2
+25-34 years	25-34	Heroin	T40.1	2005	2005	506	39258647	1.3
+25-34 years	25-34	Heroin	T40.1	2006	2006	501	39395179	1.3
+25-34 years	25-34	Heroin	T40.1	2007	2007	582	39713463	1.5
+25-34 years	25-34	Heroin	T40.1	2008	2008	802	40207473	2
+25-34 years	25-34	Heroin	T40.1	2009	2009	957	40723342	2.4
+25-34 years	25-34	Heroin	T40.1	2010	2010	923	41063948	2.2
+25-34 years	25-34	Heroin	T40.1	2011	2011	1427	41790498	3.4
+25-34 years	25-34	Heroin	T40.1	2012	2012	1952	42309321	4.6
+25-34 years	25-34	Heroin	T40.1	2013	2013	2725	42844587	6.4
+25-34 years	25-34	Heroin	T40.1	2014	2014	3541	43516504	8.1
+25-34 years	25-34	Heroin	T40.1	2015	2015	4334	44137202	9.8
+25-34 years	25-34	Heroin	T40.1	2016	2016	5124	44677243	11.5
+25-34 years	25-34	Heroin	T40.1	2017	2017	4945	45342672	10.9
+25-34 years	25-34	Heroin	T40.1	2018	2018	4703	45697774	10.3
+25-34 years	25-34	Heroin	T40.1	2019	2019	4078	45940321	8.9
+25-34 years	25-34	Other opioids	T40.2	1999	1999	562	40178406	1.4
+25-34 years	25-34	Other opioids	T40.2	2000	2000	558	39891724	1.4
+25-34 years	25-34	Other opioids	T40.2	2001	2001	592	39471522	1.5
+25-34 years	25-34	Other opioids	T40.2	2002	2002	786	39349646	2
+25-34 years	25-34	Other opioids	T40.2	2003	2003	857	39243795	2.2
+25-34 years	25-34	Other opioids	T40.2	2004	2004	868	39266556	2.2
+25-34 years	25-34	Other opioids	T40.2	2005	2005	1018	39258647	2.6
+25-34 years	25-34	Other opioids	T40.2	2006	2006	1296	39395179	3.3
+25-34 years	25-34	Other opioids	T40.2	2007	2007	1559	39713463	3.9
+25-34 years	25-34	Other opioids	T40.2	2008	2008	1716	40207473	4.3
+25-34 years	25-34	Other opioids	T40.2	2009	2009	1897	40723342	4.7
+25-34 years	25-34	Other opioids	T40.2	2010	2010	2232	41063948	5.4
+25-34 years	25-34	Other opioids	T40.2	2011	2011	2408	41790498	5.8
+25-34 years	25-34	Other opioids	T40.2	2012	2012	2126	42309321	5
+25-34 years	25-34	Other opioids	T40.2	2013	2013	2147	42844587	5
+25-34 years	25-34	Other opioids	T40.2	2014	2014	2162	43516504	5
+25-34 years	25-34	Other opioids	T40.2	2015	2015	2386	44137202	5.4
+25-34 years	25-34	Other opioids	T40.2	2016	2016	2917	44677243	6.5
+25-34 years	25-34	Other opioids	T40.2	2017	2017	2929	45342672	6.5
+25-34 years	25-34	Other opioids	T40.2	2018	2018	2453	45697774	5.4
+25-34 years	25-34	Other opioids	T40.2	2019	2019	2439	45940321	5.3
+25-34 years	25-34	Methadone	T40.3	1999	1999	170	40178406	0.4
+25-34 years	25-34	Methadone	T40.3	2000	2000	194	39891724	0.5
+25-34 years	25-34	Methadone	T40.3	2001	2001	278	39471522	0.7
+25-34 years	25-34	Methadone	T40.3	2002	2002	481	39349646	1.2
+25-34 years	25-34	Methadone	T40.3	2003	2003	554	39243795	1.4
+25-34 years	25-34	Methadone	T40.3	2004	2004	844	39266556	2.1
+25-34 years	25-34	Methadone	T40.3	2005	2005	1000	39258647	2.5
+25-34 years	25-34	Methadone	T40.3	2006	2006	1269	39395179	3.2
+25-34 years	25-34	Methadone	T40.3	2007	2007	1332	39713463	3.4
+25-34 years	25-34	Methadone	T40.3	2008	2008	1170	40207473	2.9
+25-34 years	25-34	Methadone	T40.3	2009	2009	1125	40723342	2.8
+25-34 years	25-34	Methadone	T40.3	2010	2010	1172	41063948	2.9
+25-34 years	25-34	Methadone	T40.3	2011	2011	1124	41790498	2.7
+25-34 years	25-34	Methadone	T40.3	2012	2012	1013	42309321	2.4
+25-34 years	25-34	Methadone	T40.3	2013	2013	868	42844587	2
+25-34 years	25-34	Methadone	T40.3	2014	2014	818	43516504	1.9
+25-34 years	25-34	Methadone	T40.3	2015	2015	748	44137202	1.7
+25-34 years	25-34	Methadone	T40.3	2016	2016	780	44677243	1.7
+25-34 years	25-34	Methadone	T40.3	2017	2017	690	45342672	1.5
+25-34 years	25-34	Methadone	T40.3	2018	2018	584	45697774	1.3
+25-34 years	25-34	Methadone	T40.3	2019	2019	544	45940321	1.2
+25-34 years	25-34	Other synthetic narcotics	T40.4	1999	1999	125	40178406	0.3
+25-34 years	25-34	Other synthetic narcotics	T40.4	2000	2000	101	39891724	0.3
+25-34 years	25-34	Other synthetic narcotics	T40.4	2001	2001	152	39471522	0.4
+25-34 years	25-34	Other synthetic narcotics	T40.4	2002	2002	219	39349646	0.6
+25-34 years	25-34	Other synthetic narcotics	T40.4	2003	2003	240	39243795	0.6
+25-34 years	25-34	Other synthetic narcotics	T40.4	2004	2004	267	39266556	0.7
+25-34 years	25-34	Other synthetic narcotics	T40.4	2005	2005	302	39258647	0.8
+25-34 years	25-34	Other synthetic narcotics	T40.4	2006	2006	526	39395179	1.3
+25-34 years	25-34	Other synthetic narcotics	T40.4	2007	2007	417	39713463	1.1
+25-34 years	25-34	Other synthetic narcotics	T40.4	2008	2008	399	40207473	1
+25-34 years	25-34	Other synthetic narcotics	T40.4	2009	2009	511	40723342	1.3
+25-34 years	25-34	Other synthetic narcotics	T40.4	2010	2010	602	41063948	1.5
+25-34 years	25-34	Other synthetic narcotics	T40.4	2011	2011	527	41790498	1.3
+25-34 years	25-34	Other synthetic narcotics	T40.4	2012	2012	549	42309321	1.3
+25-34 years	25-34	Other synthetic narcotics	T40.4	2013	2013	653	42844587	1.5
+25-34 years	25-34	Other synthetic narcotics	T40.4	2014	2014	1492	43516504	3.4
+25-34 years	25-34	Other synthetic narcotics	T40.4	2015	2015	2932	44137202	6.6
+25-34 years	25-34	Other synthetic narcotics	T40.4	2016	2016	6163	44677243	13.8
+25-34 years	25-34	Other synthetic narcotics	T40.4	2017	2017	8916	45342672	19.7
+25-34 years	25-34	Other synthetic narcotics	T40.4	2018	2018	9671	45697774	21.2
+25-34 years	25-34	Other synthetic narcotics	T40.4	2019	2019	10664	45940321	23.2
+25-34 years	25-34	Cocaine	T40.5	1999	1999	1042	40178406	2.6
+25-34 years	25-34	Cocaine	T40.5	2000	2000	875	39891724	2.2
+25-34 years	25-34	Cocaine	T40.5	2001	2001	906	39471522	2.3
+25-34 years	25-34	Cocaine	T40.5	2002	2002	1027	39349646	2.6
+25-34 years	25-34	Cocaine	T40.5	2003	2003	1153	39243795	2.9
+25-34 years	25-34	Cocaine	T40.5	2004	2004	1138	39266556	2.9
+25-34 years	25-34	Cocaine	T40.5	2005	2005	1328	39258647	3.4
+25-34 years	25-34	Cocaine	T40.5	2006	2006	1575	39395179	4
+25-34 years	25-34	Cocaine	T40.5	2007	2007	1368	39713463	3.4
+25-34 years	25-34	Cocaine	T40.5	2008	2008	1069	40207473	2.7
+25-34 years	25-34	Cocaine	T40.5	2009	2009	874	40723342	2.1
+25-34 years	25-34	Cocaine	T40.5	2010	2010	806	41063948	2
+25-34 years	25-34	Cocaine	T40.5	2011	2011	1020	41790498	2.4
+25-34 years	25-34	Cocaine	T40.5	2012	2012	873	42309321	2.1
+25-34 years	25-34	Cocaine	T40.5	2013	2013	1020	42844587	2.4
+25-34 years	25-34	Cocaine	T40.5	2014	2014	1216	43516504	2.8
+25-34 years	25-34	Cocaine	T40.5	2015	2015	1636	44137202	3.7
+25-34 years	25-34	Cocaine	T40.5	2016	2016	2626	44677243	5.9
+25-34 years	25-34	Cocaine	T40.5	2017	2017	3565	45342672	7.9
+25-34 years	25-34	Cocaine	T40.5	2018	2018	3662	45697774	8
+25-34 years	25-34	Cocaine	T40.5	2019	2019	3737	45940321	8.1
+25-34 years	25-34	Other and unspecified narcotics	T40.6	1999	1999	695	40178406	1.7
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2000	2000	638	39891724	1.6
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2001	2001	620	39471522	1.6
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2002	2002	653	39349646	1.7
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2003	2003	662	39243795	1.7
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2004	2004	555	39266556	1.4
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2005	2005	533	39258647	1.4
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2006	2006	596	39395179	1.5
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2007	2007	582	39713463	1.5
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2008	2008	641	40207473	1.6
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2009	2009	571	40723342	1.4
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2010	2010	531	41063948	1.3
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2011	2011	708	41790498	1.7
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2012	2012	656	42309321	1.6
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2013	2013	674	42844587	1.6
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2014	2014	692	43516504	1.6
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2015	2015	763	44137202	1.7
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2016	2016	748	44677243	1.7
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2017	2017	641	45342672	1.4
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2018	2018	505	45697774	1.1
+25-34 years	25-34	Other and unspecified narcotics	T40.6	2019	2019	396	45940321	0.9
+25-34 years	25-34	Cannabis (derivatives)	T40.7	1999	1999	4	40178406	Unreliable
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2000	2000	13	39891724	Unreliable
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2001	2001	11	39471522	Unreliable
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2002	2002	18	39349646	Unreliable
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2003	2003	31	39243795	0.1
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2004	2004	33	39266556	0.1
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2005	2005	35	39258647	0.1
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2006	2006	40	39395179	0.1
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2007	2007	56	39713463	0.1
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2008	2008	43	40207473	0.1
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2009	2009	38	40723342	0.1
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2010	2010	67	41063948	0.2
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2011	2011	89	41790498	0.2
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2012	2012	105	42309321	0.2
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2013	2013	101	42844587	0.2
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2014	2014	111	43516504	0.3
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2015	2015	156	44137202	0.4
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2016	2016	186	44677243	0.4
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2017	2017	239	45342672	0.5
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2018	2018	308	45697774	0.7
+25-34 years	25-34	Cannabis (derivatives)	T40.7	2019	2019	319	45940321	0.7
+25-34 years	25-34	Lysergide [LSD]	T40.8	1999	1999	1	40178406	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2000	2000	2	39891724	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2001	2001	0	39471522	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2002	2002	1	39349646	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2003	2003	0	39243795	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2004	2004	0	39266556	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2005	2005	0	39258647	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2006	2006	0	39395179	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2007	2007	1	39713463	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2008	2008	0	40207473	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2009	2009	0	40723342	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2010	2010	0	41063948	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2011	2011	0	41790498	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2012	2012	1	42309321	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2013	2013	0	42844587	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2014	2014	0	43516504	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2015	2015	2	44137202	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2016	2016	2	44677243	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2017	2017	4	45342672	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2018	2018	3	45697774	Unreliable
+25-34 years	25-34	Lysergide [LSD]	T40.8	2019	2019	8	45940321	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	1999	1999	3	40178406	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2000	2000	5	39891724	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2001	2001	3	39471522	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2002	2002	1	39349646	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2003	2003	1	39243795	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2004	2004	1	39266556	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2005	2005	1	39258647	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2006	2006	3	39395179	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2007	2007	0	39713463	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2008	2008	0	40207473	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2009	2009	4	40723342	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2010	2010	2	41063948	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2011	2011	4	41790498	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2012	2012	2	42309321	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2013	2013	2	42844587	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2014	2014	3	43516504	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2015	2015	4	44137202	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2016	2016	7	44677243	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2017	2017	1	45342672	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2018	2018	2	45697774	Unreliable
+25-34 years	25-34	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2019	2019	7	45940321	Unreliable
+35-44 years	35-44	Opium	T40.0	1999	1999	1	45076677	Unreliable
+35-44 years	35-44	Opium	T40.0	2000	2000	0	45148527	Unreliable
+35-44 years	35-44	Opium	T40.0	2001	2001	3	45051752	Unreliable
+35-44 years	35-44	Opium	T40.0	2002	2002	0	44640649	Unreliable
+35-44 years	35-44	Opium	T40.0	2003	2003	1	44154206	Unreliable
+35-44 years	35-44	Opium	T40.0	2004	2004	1	43800275	Unreliable
+35-44 years	35-44	Opium	T40.0	2005	2005	0	43505538	Unreliable
+35-44 years	35-44	Opium	T40.0	2006	2006	0	43243801	Unreliable
+35-44 years	35-44	Opium	T40.0	2007	2007	2	42796230	Unreliable
+35-44 years	35-44	Opium	T40.0	2008	2008	0	42192486	Unreliable
+35-44 years	35-44	Opium	T40.0	2009	2009	0	41487811	Unreliable
+35-44 years	35-44	Opium	T40.0	2010	2010	0	41070606	Unreliable
+35-44 years	35-44	Opium	T40.0	2011	2011	0	40627954	Unreliable
+35-44 years	35-44	Opium	T40.0	2012	2012	0	40516420	Unreliable
+35-44 years	35-44	Opium	T40.0	2013	2013	0	40452690	Unreliable
+35-44 years	35-44	Opium	T40.0	2014	2014	0	40513133	Unreliable
+35-44 years	35-44	Opium	T40.0	2015	2015	1	40589783	Unreliable
+35-44 years	35-44	Opium	T40.0	2016	2016	0	40470156	Unreliable
+35-44 years	35-44	Opium	T40.0	2017	2017	1	40875370	Unreliable
+35-44 years	35-44	Opium	T40.0	2018	2018	1	41277888	Unreliable
+35-44 years	35-44	Opium	T40.0	2019	2019	1	41659144	Unreliable
+35-44 years	35-44	Heroin	T40.1	1999	1999	873	45076677	1.9
+35-44 years	35-44	Heroin	T40.1	2000	2000	752	45148527	1.7
+35-44 years	35-44	Heroin	T40.1	2001	2001	700	45051752	1.6
+35-44 years	35-44	Heroin	T40.1	2002	2002	818	44640649	1.8
+35-44 years	35-44	Heroin	T40.1	2003	2003	689	44154206	1.6
+35-44 years	35-44	Heroin	T40.1	2004	2004	585	43800275	1.3
+35-44 years	35-44	Heroin	T40.1	2005	2005	569	43505538	1.3
+35-44 years	35-44	Heroin	T40.1	2006	2006	572	43243801	1.3
+35-44 years	35-44	Heroin	T40.1	2007	2007	623	42796230	1.5
+35-44 years	35-44	Heroin	T40.1	2008	2008	748	42192486	1.8
+35-44 years	35-44	Heroin	T40.1	2009	2009	750	41487811	1.8
+35-44 years	35-44	Heroin	T40.1	2010	2010	691	41070606	1.7
+35-44 years	35-44	Heroin	T40.1	2011	2011	892	40627954	2.2
+35-44 years	35-44	Heroin	T40.1	2012	2012	1268	40516420	3.1
+35-44 years	35-44	Heroin	T40.1	2013	2013	1790	40452690	4.4
+35-44 years	35-44	Heroin	T40.1	2014	2014	2437	40513133	6
+35-44 years	35-44	Heroin	T40.1	2015	2015	3047	40589783	7.5
+35-44 years	35-44	Heroin	T40.1	2016	2016	3669	40470156	9.1
+35-44 years	35-44	Heroin	T40.1	2017	2017	3767	40875370	9.2
+35-44 years	35-44	Heroin	T40.1	2018	2018	3784	41277888	9.2
+35-44 years	35-44	Heroin	T40.1	2019	2019	3675	41659144	8.8
+35-44 years	35-44	Other opioids	T40.2	1999	1999	1110	45076677	2.5
+35-44 years	35-44	Other opioids	T40.2	2000	2000	1143	45148527	2.5
+35-44 years	35-44	Other opioids	T40.2	2001	2001	1326	45051752	2.9
+35-44 years	35-44	Other opioids	T40.2	2002	2002	1613	44640649	3.6
+35-44 years	35-44	Other opioids	T40.2	2003	2003	1624	44154206	3.7
+35-44 years	35-44	Other opioids	T40.2	2004	2004	1668	43800275	3.8
+35-44 years	35-44	Other opioids	T40.2	2005	2005	1679	43505538	3.9
+35-44 years	35-44	Other opioids	T40.2	2006	2006	1943	43243801	4.5
+35-44 years	35-44	Other opioids	T40.2	2007	2007	2139	42796230	5
+35-44 years	35-44	Other opioids	T40.2	2008	2008	2300	42192486	5.5
+35-44 years	35-44	Other opioids	T40.2	2009	2009	2365	41487811	5.7
+35-44 years	35-44	Other opioids	T40.2	2010	2010	2611	41070606	6.4
+35-44 years	35-44	Other opioids	T40.2	2011	2011	2746	40627954	6.8
+35-44 years	35-44	Other opioids	T40.2	2012	2012	2622	40516420	6.5
+35-44 years	35-44	Other opioids	T40.2	2013	2013	2469	40452690	6.1
+35-44 years	35-44	Other opioids	T40.2	2014	2014	2742	40513133	6.8
+35-44 years	35-44	Other opioids	T40.2	2015	2015	2899	40589783	7.1
+35-44 years	35-44	Other opioids	T40.2	2016	2016	3188	40470156	7.9
+35-44 years	35-44	Other opioids	T40.2	2017	2017	3234	40875370	7.9
+35-44 years	35-44	Other opioids	T40.2	2018	2018	2844	41277888	6.9
+35-44 years	35-44	Other opioids	T40.2	2019	2019	2752	41659144	6.6
+35-44 years	35-44	Methadone	T40.3	1999	1999	362	45076677	0.8
+35-44 years	35-44	Methadone	T40.3	2000	2000	426	45148527	0.9
+35-44 years	35-44	Methadone	T40.3	2001	2001	565	45051752	1.3
+35-44 years	35-44	Methadone	T40.3	2002	2002	833	44640649	1.9
+35-44 years	35-44	Methadone	T40.3	2003	2003	1014	44154206	2.3
+35-44 years	35-44	Methadone	T40.3	2004	2004	1191	43800275	2.7
+35-44 years	35-44	Methadone	T40.3	2005	2005	1275	43505538	2.9
+35-44 years	35-44	Methadone	T40.3	2006	2006	1450	43243801	3.4
+35-44 years	35-44	Methadone	T40.3	2007	2007	1338	42796230	3.1
+35-44 years	35-44	Methadone	T40.3	2008	2008	1137	42192486	2.7
+35-44 years	35-44	Methadone	T40.3	2009	2009	1081	41487811	2.6
+35-44 years	35-44	Methadone	T40.3	2010	2010	1017	41070606	2.5
+35-44 years	35-44	Methadone	T40.3	2011	2011	1039	40627954	2.6
+35-44 years	35-44	Methadone	T40.3	2012	2012	937	40516420	2.3
+35-44 years	35-44	Methadone	T40.3	2013	2013	871	40452690	2.2
+35-44 years	35-44	Methadone	T40.3	2014	2014	795	40513133	2
+35-44 years	35-44	Methadone	T40.3	2015	2015	761	40589783	1.9
+35-44 years	35-44	Methadone	T40.3	2016	2016	838	40470156	2.1
+35-44 years	35-44	Methadone	T40.3	2017	2017	767	40875370	1.9
+35-44 years	35-44	Methadone	T40.3	2018	2018	753	41277888	1.8
+35-44 years	35-44	Methadone	T40.3	2019	2019	702	41659144	1.7
+35-44 years	35-44	Other synthetic narcotics	T40.4	1999	1999	288	45076677	0.6
+35-44 years	35-44	Other synthetic narcotics	T40.4	2000	2000	308	45148527	0.7
+35-44 years	35-44	Other synthetic narcotics	T40.4	2001	2001	379	45051752	0.8
+35-44 years	35-44	Other synthetic narcotics	T40.4	2002	2002	473	44640649	1.1
+35-44 years	35-44	Other synthetic narcotics	T40.4	2003	2003	504	44154206	1.1
+35-44 years	35-44	Other synthetic narcotics	T40.4	2004	2004	556	43800275	1.3
+35-44 years	35-44	Other synthetic narcotics	T40.4	2005	2005	531	43505538	1.2
+35-44 years	35-44	Other synthetic narcotics	T40.4	2006	2006	780	43243801	1.8
+35-44 years	35-44	Other synthetic narcotics	T40.4	2007	2007	596	42796230	1.4
+35-44 years	35-44	Other synthetic narcotics	T40.4	2008	2008	610	42192486	1.4
+35-44 years	35-44	Other synthetic narcotics	T40.4	2009	2009	704	41487811	1.7
+35-44 years	35-44	Other synthetic narcotics	T40.4	2010	2010	698	41070606	1.7
+35-44 years	35-44	Other synthetic narcotics	T40.4	2011	2011	596	40627954	1.5
+35-44 years	35-44	Other synthetic narcotics	T40.4	2012	2012	573	40516420	1.4
+35-44 years	35-44	Other synthetic narcotics	T40.4	2013	2013	658	40452690	1.6
+35-44 years	35-44	Other synthetic narcotics	T40.4	2014	2014	1289	40513133	3.2
+35-44 years	35-44	Other synthetic narcotics	T40.4	2015	2015	2338	40589783	5.8
+35-44 years	35-44	Other synthetic narcotics	T40.4	2016	2016	4878	40470156	12.1
+35-44 years	35-44	Other synthetic narcotics	T40.4	2017	2017	7177	40875370	17.6
+35-44 years	35-44	Other synthetic narcotics	T40.4	2018	2018	8197	41277888	19.9
+35-44 years	35-44	Other synthetic narcotics	T40.4	2019	2019	9526	41659144	22.9
+35-44 years	35-44	Cocaine	T40.5	1999	1999	1862	45076677	4.1
+35-44 years	35-44	Cocaine	T40.5	2000	2000	1743	45148527	3.9
+35-44 years	35-44	Cocaine	T40.5	2001	2001	1861	45051752	4.1
+35-44 years	35-44	Cocaine	T40.5	2002	2002	2088	44640649	4.7
+35-44 years	35-44	Cocaine	T40.5	2003	2003	2230	44154206	5.1
+35-44 years	35-44	Cocaine	T40.5	2004	2004	2254	43800275	5.1
+35-44 years	35-44	Cocaine	T40.5	2005	2005	2457	43505538	5.6
+35-44 years	35-44	Cocaine	T40.5	2006	2006	2690	43243801	6.2
+35-44 years	35-44	Cocaine	T40.5	2007	2007	2169	42796230	5.1
+35-44 years	35-44	Cocaine	T40.5	2008	2008	1584	42192486	3.8
+35-44 years	35-44	Cocaine	T40.5	2009	2009	1279	41487811	3.1
+35-44 years	35-44	Cocaine	T40.5	2010	2010	1162	41070606	2.8
+35-44 years	35-44	Cocaine	T40.5	2011	2011	1214	40627954	3
+35-44 years	35-44	Cocaine	T40.5	2012	2012	1068	40516420	2.6
+35-44 years	35-44	Cocaine	T40.5	2013	2013	1166	40452690	2.9
+35-44 years	35-44	Cocaine	T40.5	2014	2014	1304	40513133	3.2
+35-44 years	35-44	Cocaine	T40.5	2015	2015	1666	40589783	4.1
+35-44 years	35-44	Cocaine	T40.5	2016	2016	2549	40470156	6.3
+35-44 years	35-44	Cocaine	T40.5	2017	2017	3435	40875370	8.4
+35-44 years	35-44	Cocaine	T40.5	2018	2018	3722	41277888	9
+35-44 years	35-44	Cocaine	T40.5	2019	2019	4062	41659144	9.8
+35-44 years	35-44	Other and unspecified narcotics	T40.6	1999	1999	1277	45076677	2.8
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2000	2000	1254	45148527	2.8
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2001	2001	1172	45051752	2.6
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2002	2002	1218	44640649	2.7
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2003	2003	1121	44154206	2.5
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2004	2004	960	43800275	2.2
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2005	2005	916	43505538	2.1
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2006	2006	877	43243801	2
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2007	2007	766	42796230	1.8
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2008	2008	754	42192486	1.8
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2009	2009	660	41487811	1.6
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2010	2010	611	41070606	1.5
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2011	2011	681	40627954	1.7
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2012	2012	629	40516420	1.6
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2013	2013	632	40452690	1.6
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2014	2014	548	40513133	1.4
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2015	2015	612	40589783	1.5
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2016	2016	640	40470156	1.6
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2017	2017	549	40875370	1.3
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2018	2018	447	41277888	1.1
+35-44 years	35-44	Other and unspecified narcotics	T40.6	2019	2019	390	41659144	0.9
+35-44 years	35-44	Cannabis (derivatives)	T40.7	1999	1999	24	45076677	0.1
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2000	2000	26	45148527	0.1
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2001	2001	26	45051752	0.1
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2002	2002	20	44640649	0
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2003	2003	16	44154206	Unreliable
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2004	2004	29	43800275	0.1
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2005	2005	28	43505538	0.1
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2006	2006	30	43243801	0.1
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2007	2007	36	42796230	0.1
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2008	2008	39	42192486	0.1
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2009	2009	25	41487811	0.1
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2010	2010	44	41070606	0.1
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2011	2011	48	40627954	0.1
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2012	2012	60	40516420	0.1
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2013	2013	86	40452690	0.2
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2014	2014	71	40513133	0.2
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2015	2015	119	40589783	0.3
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2016	2016	169	40470156	0.4
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2017	2017	170	40875370	0.4
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2018	2018	239	41277888	0.6
+35-44 years	35-44	Cannabis (derivatives)	T40.7	2019	2019	250	41659144	0.6
+35-44 years	35-44	Lysergide [LSD]	T40.8	1999	1999	0	45076677	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2000	2000	1	45148527	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2001	2001	0	45051752	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2002	2002	0	44640649	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2003	2003	1	44154206	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2004	2004	0	43800275	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2005	2005	0	43505538	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2006	2006	0	43243801	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2007	2007	1	42796230	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2008	2008	0	42192486	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2009	2009	0	41487811	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2010	2010	0	41070606	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2011	2011	0	40627954	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2012	2012	0	40516420	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2013	2013	0	40452690	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2014	2014	0	40513133	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2015	2015	0	40589783	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2016	2016	1	40470156	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2017	2017	4	40875370	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2018	2018	1	41277888	Unreliable
+35-44 years	35-44	Lysergide [LSD]	T40.8	2019	2019	0	41659144	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	1999	1999	3	45076677	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2000	2000	3	45148527	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2001	2001	2	45051752	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2002	2002	1	44640649	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2003	2003	3	44154206	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2004	2004	0	43800275	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2005	2005	2	43505538	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2006	2006	4	43243801	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2007	2007	1	42796230	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2008	2008	0	42192486	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2009	2009	2	41487811	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2010	2010	3	41070606	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2011	2011	1	40627954	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2012	2012	1	40516420	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2013	2013	3	40452690	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2014	2014	0	40513133	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2015	2015	1	40589783	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2016	2016	2	40470156	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2017	2017	4	40875370	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2018	2018	6	41277888	Unreliable
+35-44 years	35-44	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2019	2019	3	41659144	Unreliable
+45-54 years	45-54	Opium	T40.0	1999	1999	0	36577819	Unreliable
+45-54 years	45-54	Opium	T40.0	2000	2000	1	37677952	Unreliable
+45-54 years	45-54	Opium	T40.0	2001	2001	2	39386268	Unreliable
+45-54 years	45-54	Opium	T40.0	2002	2002	0	39992194	Unreliable
+45-54 years	45-54	Opium	T40.0	2003	2003	1	40819954	Unreliable
+45-54 years	45-54	Opium	T40.0	2004	2004	0	41629930	Unreliable
+45-54 years	45-54	Opium	T40.0	2005	2005	0	42495904	Unreliable
+45-54 years	45-54	Opium	T40.0	2006	2006	2	43286159	Unreliable
+45-54 years	45-54	Opium	T40.0	2007	2007	0	43939939	Unreliable
+45-54 years	45-54	Opium	T40.0	2008	2008	0	44460447	Unreliable
+45-54 years	45-54	Opium	T40.0	2009	2009	1	44867088	Unreliable
+45-54 years	45-54	Opium	T40.0	2010	2010	0	45006716	Unreliable
+45-54 years	45-54	Opium	T40.0	2011	2011	0	44718203	Unreliable
+45-54 years	45-54	Opium	T40.0	2012	2012	1	44268738	Unreliable
+45-54 years	45-54	Opium	T40.0	2013	2013	0	43767532	Unreliable
+45-54 years	45-54	Opium	T40.0	2014	2014	0	43458851	Unreliable
+45-54 years	45-54	Opium	T40.0	2015	2015	0	43188161	Unreliable
+45-54 years	45-54	Opium	T40.0	2016	2016	1	42786679	Unreliable
+45-54 years	45-54	Opium	T40.0	2017	2017	1	42374952	Unreliable
+45-54 years	45-54	Opium	T40.0	2018	2018	0	41631699	Unreliable
+45-54 years	45-54	Opium	T40.0	2019	2019	0	40874902	Unreliable
+45-54 years	45-54	Heroin	T40.1	1999	1999	508	36577819	1.4
+45-54 years	45-54	Heroin	T40.1	2000	2000	496	37677952	1.3
+45-54 years	45-54	Heroin	T40.1	2001	2001	491	39386268	1.2
+45-54 years	45-54	Heroin	T40.1	2002	2002	612	39992194	1.5
+45-54 years	45-54	Heroin	T40.1	2003	2003	656	40819954	1.6
+45-54 years	45-54	Heroin	T40.1	2004	2004	542	41629930	1.3
+45-54 years	45-54	Heroin	T40.1	2005	2005	641	42495904	1.5
+45-54 years	45-54	Heroin	T40.1	2006	2006	620	43286159	1.4
+45-54 years	45-54	Heroin	T40.1	2007	2007	689	43939939	1.6
+45-54 years	45-54	Heroin	T40.1	2008	2008	769	44460447	1.7
+45-54 years	45-54	Heroin	T40.1	2009	2009	827	44867088	1.8
+45-54 years	45-54	Heroin	T40.1	2010	2010	661	45006716	1.5
+45-54 years	45-54	Heroin	T40.1	2011	2011	902	44718203	2
+45-54 years	45-54	Heroin	T40.1	2012	2012	1262	44268738	2.9
+45-54 years	45-54	Heroin	T40.1	2013	2013	1673	43767532	3.8
+45-54 years	45-54	Heroin	T40.1	2014	2014	2072	43458851	4.8
+45-54 years	45-54	Heroin	T40.1	2015	2015	2471	43188161	5.7
+45-54 years	45-54	Heroin	T40.1	2016	2016	3055	42786679	7.1
+45-54 years	45-54	Heroin	T40.1	2017	2017	3080	42374952	7.3
+45-54 years	45-54	Heroin	T40.1	2018	2018	2965	41631699	7.1
+45-54 years	45-54	Heroin	T40.1	2019	2019	2799	40874902	6.8
+45-54 years	45-54	Other opioids	T40.2	1999	1999	769	36577819	2.1
+45-54 years	45-54	Other opioids	T40.2	2000	2000	877	37677952	2.3
+45-54 years	45-54	Other opioids	T40.2	2001	2001	1055	39386268	2.7
+45-54 years	45-54	Other opioids	T40.2	2002	2002	1420	39992194	3.6
+45-54 years	45-54	Other opioids	T40.2	2003	2003	1576	40819954	3.9
+45-54 years	45-54	Other opioids	T40.2	2004	2004	1758	41629930	4.2
+45-54 years	45-54	Other opioids	T40.2	2005	2005	1981	42495904	4.7
+45-54 years	45-54	Other opioids	T40.2	2006	2006	2350	43286159	5.4
+45-54 years	45-54	Other opioids	T40.2	2007	2007	2670	43939939	6.1
+45-54 years	45-54	Other opioids	T40.2	2008	2008	2995	44460447	6.7
+45-54 years	45-54	Other opioids	T40.2	2009	2009	3225	44867088	7.2
+45-54 years	45-54	Other opioids	T40.2	2010	2010	3485	45006716	7.7
+45-54 years	45-54	Other opioids	T40.2	2011	2011	3697	44718203	8.3
+45-54 years	45-54	Other opioids	T40.2	2012	2012	3538	44268738	8
+45-54 years	45-54	Other opioids	T40.2	2013	2013	3559	43767532	8.1
+45-54 years	45-54	Other opioids	T40.2	2014	2014	3638	43458851	8.4
+45-54 years	45-54	Other opioids	T40.2	2015	2015	3629	43188161	8.4
+45-54 years	45-54	Other opioids	T40.2	2016	2016	3898	42786679	9.1
+45-54 years	45-54	Other opioids	T40.2	2017	2017	3805	42374952	9
+45-54 years	45-54	Other opioids	T40.2	2018	2018	3036	41631699	7.3
+45-54 years	45-54	Other opioids	T40.2	2019	2019	2758	40874902	6.7
+45-54 years	45-54	Methadone	T40.3	1999	1999	208	36577819	0.6
+45-54 years	45-54	Methadone	T40.3	2000	2000	293	37677952	0.8
+45-54 years	45-54	Methadone	T40.3	2001	2001	460	39386268	1.2
+45-54 years	45-54	Methadone	T40.3	2002	2002	699	39992194	1.7
+45-54 years	45-54	Methadone	T40.3	2003	2003	894	40819954	2.2
+45-54 years	45-54	Methadone	T40.3	2004	2004	1092	41629930	2.6
+45-54 years	45-54	Methadone	T40.3	2005	2005	1362	42495904	3.2
+45-54 years	45-54	Methadone	T40.3	2006	2006	1603	43286159	3.7
+45-54 years	45-54	Methadone	T40.3	2007	2007	1587	43939939	3.6
+45-54 years	45-54	Methadone	T40.3	2008	2008	1534	44460447	3.5
+45-54 years	45-54	Methadone	T40.3	2009	2009	1377	44867088	3.1
+45-54 years	45-54	Methadone	T40.3	2010	2010	1300	45006716	2.9
+45-54 years	45-54	Methadone	T40.3	2011	2011	1232	44718203	2.8
+45-54 years	45-54	Methadone	T40.3	2012	2012	1057	44268738	2.4
+45-54 years	45-54	Methadone	T40.3	2013	2013	947	43767532	2.2
+45-54 years	45-54	Methadone	T40.3	2014	2014	896	43458851	2.1
+45-54 years	45-54	Methadone	T40.3	2015	2015	870	43188161	2
+45-54 years	45-54	Methadone	T40.3	2016	2016	822	42786679	1.9
+45-54 years	45-54	Methadone	T40.3	2017	2017	778	42374952	1.8
+45-54 years	45-54	Methadone	T40.3	2018	2018	757	41631699	1.8
+45-54 years	45-54	Methadone	T40.3	2019	2019	675	40874902	1.7
+45-54 years	45-54	Other synthetic narcotics	T40.4	1999	1999	214	36577819	0.6
+45-54 years	45-54	Other synthetic narcotics	T40.4	2000	2000	246	37677952	0.7
+45-54 years	45-54	Other synthetic narcotics	T40.4	2001	2001	288	39386268	0.7
+45-54 years	45-54	Other synthetic narcotics	T40.4	2002	2002	397	39992194	1
+45-54 years	45-54	Other synthetic narcotics	T40.4	2003	2003	429	40819954	1.1
+45-54 years	45-54	Other synthetic narcotics	T40.4	2004	2004	559	41629930	1.3
+45-54 years	45-54	Other synthetic narcotics	T40.4	2005	2005	577	42495904	1.4
+45-54 years	45-54	Other synthetic narcotics	T40.4	2006	2006	892	43286159	2.1
+45-54 years	45-54	Other synthetic narcotics	T40.4	2007	2007	719	43939939	1.6
+45-54 years	45-54	Other synthetic narcotics	T40.4	2008	2008	779	44460447	1.8
+45-54 years	45-54	Other synthetic narcotics	T40.4	2009	2009	1005	44867088	2.2
+45-54 years	45-54	Other synthetic narcotics	T40.4	2010	2010	977	45006716	2.2
+45-54 years	45-54	Other synthetic narcotics	T40.4	2011	2011	863	44718203	1.9
+45-54 years	45-54	Other synthetic narcotics	T40.4	2012	2012	821	44268738	1.9
+45-54 years	45-54	Other synthetic narcotics	T40.4	2013	2013	923	43767532	2.1
+45-54 years	45-54	Other synthetic narcotics	T40.4	2014	2014	1404	43458851	3.2
+45-54 years	45-54	Other synthetic narcotics	T40.4	2015	2015	2028	43188161	4.7
+45-54 years	45-54	Other synthetic narcotics	T40.4	2016	2016	3953	42786679	9.2
+45-54 years	45-54	Other synthetic narcotics	T40.4	2017	2017	5860	42374952	13.8
+45-54 years	45-54	Other synthetic narcotics	T40.4	2018	2018	6230	41631699	15
+45-54 years	45-54	Other synthetic narcotics	T40.4	2019	2019	7202	40874902	17.6
+45-54 years	45-54	Cocaine	T40.5	1999	1999	1055	36577819	2.9
+45-54 years	45-54	Cocaine	T40.5	2000	2000	1069	37677952	2.8
+45-54 years	45-54	Cocaine	T40.5	2001	2001	1188	39386268	3
+45-54 years	45-54	Cocaine	T40.5	2002	2002	1523	39992194	3.8
+45-54 years	45-54	Cocaine	T40.5	2003	2003	1755	40819954	4.3
+45-54 years	45-54	Cocaine	T40.5	2004	2004	1962	41629930	4.7
+45-54 years	45-54	Cocaine	T40.5	2005	2005	2232	42495904	5.3
+45-54 years	45-54	Cocaine	T40.5	2006	2006	2778	43286159	6.4
+45-54 years	45-54	Cocaine	T40.5	2007	2007	2463	43939939	5.6
+45-54 years	45-54	Cocaine	T40.5	2008	2008	2043	44460447	4.6
+45-54 years	45-54	Cocaine	T40.5	2009	2009	1803	44867088	4
+45-54 years	45-54	Cocaine	T40.5	2010	2010	1718	45006716	3.8
+45-54 years	45-54	Cocaine	T40.5	2011	2011	1780	44718203	4
+45-54 years	45-54	Cocaine	T40.5	2012	2012	1753	44268738	4
+45-54 years	45-54	Cocaine	T40.5	2013	2013	1833	43767532	4.2
+45-54 years	45-54	Cocaine	T40.5	2014	2014	1821	43458851	4.2
+45-54 years	45-54	Cocaine	T40.5	2015	2015	2067	43188161	4.8
+45-54 years	45-54	Cocaine	T40.5	2016	2016	2876	42786679	6.7
+45-54 years	45-54	Cocaine	T40.5	2017	2017	3794	42374952	9
+45-54 years	45-54	Cocaine	T40.5	2018	2018	3697	41631699	8.9
+45-54 years	45-54	Cocaine	T40.5	2019	2019	3993	40874902	9.8
+45-54 years	45-54	Other and unspecified narcotics	T40.6	1999	1999	758	36577819	2.1
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2000	2000	772	37677952	2
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2001	2001	809	39386268	2.1
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2002	2002	942	39992194	2.4
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2003	2003	943	40819954	2.3
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2004	2004	855	41629930	2.1
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2005	2005	960	42495904	2.3
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2006	2006	948	43286159	2.2
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2007	2007	850	43939939	1.9
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2008	2008	884	44460447	2
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2009	2009	794	44867088	1.8
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2010	2010	694	45006716	1.5
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2011	2011	763	44718203	1.7
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2012	2012	828	44268738	1.9
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2013	2013	713	43767532	1.6
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2014	2014	616	43458851	1.4
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2015	2015	705	43188161	1.6
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2016	2016	626	42786679	1.5
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2017	2017	557	42374952	1.3
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2018	2018	404	41631699	1
+45-54 years	45-54	Other and unspecified narcotics	T40.6	2019	2019	328	40874902	0.8
+45-54 years	45-54	Cannabis (derivatives)	T40.7	1999	1999	5	36577819	Unreliable
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2000	2000	4	37677952	Unreliable
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2001	2001	9	39386268	Unreliable
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2002	2002	11	39992194	Unreliable
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2003	2003	16	40819954	Unreliable
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2004	2004	25	41629930	0.1
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2005	2005	31	42495904	0.1
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2006	2006	40	43286159	0.1
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2007	2007	32	43939939	0.1
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2008	2008	29	44460447	0.1
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2009	2009	41	44867088	0.1
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2010	2010	52	45006716	0.1
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2011	2011	64	44718203	0.1
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2012	2012	75	44268738	0.2
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2013	2013	73	43767532	0.2
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2014	2014	95	43458851	0.2
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2015	2015	108	43188161	0.3
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2016	2016	131	42786679	0.3
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2017	2017	168	42374952	0.4
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2018	2018	189	41631699	0.5
+45-54 years	45-54	Cannabis (derivatives)	T40.7	2019	2019	196	40874902	0.5
+45-54 years	45-54	Lysergide [LSD]	T40.8	1999	1999	0	36577819	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2000	2000	0	37677952	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2001	2001	0	39386268	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2002	2002	0	39992194	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2003	2003	0	40819954	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2004	2004	0	41629930	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2005	2005	0	42495904	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2006	2006	0	43286159	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2007	2007	0	43939939	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2008	2008	0	44460447	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2009	2009	0	44867088	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2010	2010	0	45006716	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2011	2011	0	44718203	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2012	2012	0	44268738	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2013	2013	0	43767532	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2014	2014	0	43458851	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2015	2015	1	43188161	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2016	2016	1	42786679	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2017	2017	2	42374952	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2018	2018	1	41631699	Unreliable
+45-54 years	45-54	Lysergide [LSD]	T40.8	2019	2019	2	40874902	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	1999	1999	1	36577819	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2000	2000	1	37677952	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2001	2001	2	39386268	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2002	2002	0	39992194	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2003	2003	2	40819954	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2004	2004	3	41629930	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2005	2005	3	42495904	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2006	2006	3	43286159	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2007	2007	2	43939939	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2008	2008	0	44460447	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2009	2009	1	44867088	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2010	2010	0	45006716	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2011	2011	1	44718203	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2012	2012	5	44268738	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2013	2013	4	43767532	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2014	2014	2	43458851	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2015	2015	3	43188161	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2016	2016	3	42786679	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2017	2017	2	42374952	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2018	2018	1	41631699	Unreliable
+45-54 years	45-54	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2019	2019	3	40874902	Unreliable
+55-64 years	55-64	Opium	T40.0	1999	1999	0	23778026	Unreliable
+55-64 years	55-64	Opium	T40.0	2000	2000	0	24274684	Unreliable
+55-64 years	55-64	Opium	T40.0	2001	2001	0	25105295	Unreliable
+55-64 years	55-64	Opium	T40.0	2002	2002	0	26703332	Unreliable
+55-64 years	55-64	Opium	T40.0	2003	2003	1	28008945	Unreliable
+55-64 years	55-64	Opium	T40.0	2004	2004	0	29305304	Unreliable
+55-64 years	55-64	Opium	T40.0	2005	2005	1	30641497	Unreliable
+55-64 years	55-64	Opium	T40.0	2006	2006	0	31930113	Unreliable
+55-64 years	55-64	Opium	T40.0	2007	2007	0	33128434	Unreliable
+55-64 years	55-64	Opium	T40.0	2008	2008	1	34157063	Unreliable
+55-64 years	55-64	Opium	T40.0	2009	2009	0	35405600	Unreliable
+55-64 years	55-64	Opium	T40.0	2010	2010	0	36482729	Unreliable
+55-64 years	55-64	Opium	T40.0	2011	2011	0	38062140	Unreliable
+55-64 years	55-64	Opium	T40.0	2012	2012	0	38586202	Unreliable
+55-64 years	55-64	Opium	T40.0	2013	2013	0	39316431	Unreliable
+55-64 years	55-64	Opium	T40.0	2014	2014	0	40077581	Unreliable
+55-64 years	55-64	Opium	T40.0	2015	2015	0	40877819	Unreliable
+55-64 years	55-64	Opium	T40.0	2016	2016	0	41463144	Unreliable
+55-64 years	55-64	Opium	T40.0	2017	2017	3	41995658	Unreliable
+55-64 years	55-64	Opium	T40.0	2018	2018	2	42272636	Unreliable
+55-64 years	55-64	Opium	T40.0	2019	2019	1	42448537	Unreliable
+55-64 years	55-64	Heroin	T40.1	1999	1999	69	23778026	0.3
+55-64 years	55-64	Heroin	T40.1	2000	2000	68	24274684	0.3
+55-64 years	55-64	Heroin	T40.1	2001	2001	71	25105295	0.3
+55-64 years	55-64	Heroin	T40.1	2002	2002	87	26703332	0.3
+55-64 years	55-64	Heroin	T40.1	2003	2003	100	28008945	0.4
+55-64 years	55-64	Heroin	T40.1	2004	2004	118	29305304	0.4
+55-64 years	55-64	Heroin	T40.1	2005	2005	127	30641497	0.4
+55-64 years	55-64	Heroin	T40.1	2006	2006	154	31930113	0.5
+55-64 years	55-64	Heroin	T40.1	2007	2007	163	33128434	0.5
+55-64 years	55-64	Heroin	T40.1	2008	2008	241	34157063	0.7
+55-64 years	55-64	Heroin	T40.1	2009	2009	263	35405600	0.7
+55-64 years	55-64	Heroin	T40.1	2010	2010	256	36482729	0.7
+55-64 years	55-64	Heroin	T40.1	2011	2011	380	38062140	1
+55-64 years	55-64	Heroin	T40.1	2012	2012	499	38586202	1.3
+55-64 years	55-64	Heroin	T40.1	2013	2013	832	39316431	2.1
+55-64 years	55-64	Heroin	T40.1	2014	2014	1090	40077581	2.7
+55-64 years	55-64	Heroin	T40.1	2015	2015	1432	40877819	3.5
+55-64 years	55-64	Heroin	T40.1	2016	2016	1825	41463144	4.4
+55-64 years	55-64	Heroin	T40.1	2017	2017	2034	41995658	4.8
+55-64 years	55-64	Heroin	T40.1	2018	2018	2125	42272636	5
+55-64 years	55-64	Heroin	T40.1	2019	2019	2216	42448537	5.2
+55-64 years	55-64	Other opioids	T40.2	1999	1999	166	23778026	0.7
+55-64 years	55-64	Other opioids	T40.2	2000	2000	190	24274684	0.8
+55-64 years	55-64	Other opioids	T40.2	2001	2001	229	25105295	0.9
+55-64 years	55-64	Other opioids	T40.2	2002	2002	331	26703332	1.2
+55-64 years	55-64	Other opioids	T40.2	2003	2003	441	28008945	1.6
+55-64 years	55-64	Other opioids	T40.2	2004	2004	527	29305304	1.8
+55-64 years	55-64	Other opioids	T40.2	2005	2005	615	30641497	2
+55-64 years	55-64	Other opioids	T40.2	2006	2006	834	31930113	2.6
+55-64 years	55-64	Other opioids	T40.2	2007	2007	1046	33128434	3.2
+55-64 years	55-64	Other opioids	T40.2	2008	2008	1235	34157063	3.6
+55-64 years	55-64	Other opioids	T40.2	2009	2009	1408	35405600	4
+55-64 years	55-64	Other opioids	T40.2	2010	2010	1640	36482729	4.5
+55-64 years	55-64	Other opioids	T40.2	2011	2011	1832	38062140	4.8
+55-64 years	55-64	Other opioids	T40.2	2012	2012	1954	38586202	5.1
+55-64 years	55-64	Other opioids	T40.2	2013	2013	2246	39316431	5.7
+55-64 years	55-64	Other opioids	T40.2	2014	2014	2567	40077581	6.4
+55-64 years	55-64	Other opioids	T40.2	2015	2015	2770	40877819	6.8
+55-64 years	55-64	Other opioids	T40.2	2016	2016	3147	41463144	7.6
+55-64 years	55-64	Other opioids	T40.2	2017	2017	3151	41995658	7.5
+55-64 years	55-64	Other opioids	T40.2	2018	2018	2936	42272636	6.9
+55-64 years	55-64	Other opioids	T40.2	2019	2019	2705	42448537	6.4
+55-64 years	55-64	Methadone	T40.3	1999	1999	26	23778026	0.1
+55-64 years	55-64	Methadone	T40.3	2000	2000	46	24274684	0.2
+55-64 years	55-64	Methadone	T40.3	2001	2001	70	25105295	0.3
+55-64 years	55-64	Methadone	T40.3	2002	2002	113	26703332	0.4
+55-64 years	55-64	Methadone	T40.3	2003	2003	167	28008945	0.6
+55-64 years	55-64	Methadone	T40.3	2004	2004	232	29305304	0.8
+55-64 years	55-64	Methadone	T40.3	2005	2005	310	30641497	1
+55-64 years	55-64	Methadone	T40.3	2006	2006	380	31930113	1.2
+55-64 years	55-64	Methadone	T40.3	2007	2007	485	33128434	1.5
+55-64 years	55-64	Methadone	T40.3	2008	2008	450	34157063	1.3
+55-64 years	55-64	Methadone	T40.3	2009	2009	544	35405600	1.5
+55-64 years	55-64	Methadone	T40.3	2010	2010	588	36482729	1.6
+55-64 years	55-64	Methadone	T40.3	2011	2011	609	38062140	1.6
+55-64 years	55-64	Methadone	T40.3	2012	2012	623	38586202	1.6
+55-64 years	55-64	Methadone	T40.3	2013	2013	639	39316431	1.6
+55-64 years	55-64	Methadone	T40.3	2014	2014	666	40077581	1.7
+55-64 years	55-64	Methadone	T40.3	2015	2015	671	40877819	1.6
+55-64 years	55-64	Methadone	T40.3	2016	2016	744	41463144	1.8
+55-64 years	55-64	Methadone	T40.3	2017	2017	747	41995658	1.8
+55-64 years	55-64	Methadone	T40.3	2018	2018	710	42272636	1.7
+55-64 years	55-64	Methadone	T40.3	2019	2019	673	42448537	1.6
+55-64 years	55-64	Other synthetic narcotics	T40.4	1999	1999	62	23778026	0.3
+55-64 years	55-64	Other synthetic narcotics	T40.4	2000	2000	79	24274684	0.3
+55-64 years	55-64	Other synthetic narcotics	T40.4	2001	2001	85	25105295	0.3
+55-64 years	55-64	Other synthetic narcotics	T40.4	2002	2002	122	26703332	0.5
+55-64 years	55-64	Other synthetic narcotics	T40.4	2003	2003	118	28008945	0.4
+55-64 years	55-64	Other synthetic narcotics	T40.4	2004	2004	141	29305304	0.5
+55-64 years	55-64	Other synthetic narcotics	T40.4	2005	2005	173	30641497	0.6
+55-64 years	55-64	Other synthetic narcotics	T40.4	2006	2006	260	31930113	0.8
+55-64 years	55-64	Other synthetic narcotics	T40.4	2007	2007	270	33128434	0.8
+55-64 years	55-64	Other synthetic narcotics	T40.4	2008	2008	305	34157063	0.9
+55-64 years	55-64	Other synthetic narcotics	T40.4	2009	2009	463	35405600	1.3
+55-64 years	55-64	Other synthetic narcotics	T40.4	2010	2010	479	36482729	1.3
+55-64 years	55-64	Other synthetic narcotics	T40.4	2011	2011	433	38062140	1.1
+55-64 years	55-64	Other synthetic narcotics	T40.4	2012	2012	465	38586202	1.2
+55-64 years	55-64	Other synthetic narcotics	T40.4	2013	2013	602	39316431	1.5
+55-64 years	55-64	Other synthetic narcotics	T40.4	2014	2014	781	40077581	1.9
+55-64 years	55-64	Other synthetic narcotics	T40.4	2015	2015	1215	40877819	3
+55-64 years	55-64	Other synthetic narcotics	T40.4	2016	2016	2297	41463144	5.5
+55-64 years	55-64	Other synthetic narcotics	T40.4	2017	2017	3553	41995658	8.5
+55-64 years	55-64	Other synthetic narcotics	T40.4	2018	2018	4106	42272636	9.7
+55-64 years	55-64	Other synthetic narcotics	T40.4	2019	2019	5190	42448537	12.2
+55-64 years	55-64	Cocaine	T40.5	1999	1999	190	23778026	0.8
+55-64 years	55-64	Cocaine	T40.5	2000	2000	151	24274684	0.6
+55-64 years	55-64	Cocaine	T40.5	2001	2001	202	25105295	0.8
+55-64 years	55-64	Cocaine	T40.5	2002	2002	286	26703332	1.1
+55-64 years	55-64	Cocaine	T40.5	2003	2003	366	28008945	1.3
+55-64 years	55-64	Cocaine	T40.5	2004	2004	431	29305304	1.5
+55-64 years	55-64	Cocaine	T40.5	2005	2005	570	30641497	1.9
+55-64 years	55-64	Cocaine	T40.5	2006	2006	697	31930113	2.2
+55-64 years	55-64	Cocaine	T40.5	2007	2007	750	33128434	2.3
+55-64 years	55-64	Cocaine	T40.5	2008	2008	669	34157063	2
+55-64 years	55-64	Cocaine	T40.5	2009	2009	662	35405600	1.9
+55-64 years	55-64	Cocaine	T40.5	2010	2010	753	36482729	2.1
+55-64 years	55-64	Cocaine	T40.5	2011	2011	876	38062140	2.3
+55-64 years	55-64	Cocaine	T40.5	2012	2012	891	38586202	2.3
+55-64 years	55-64	Cocaine	T40.5	2013	2013	1011	39316431	2.6
+55-64 years	55-64	Cocaine	T40.5	2014	2014	1090	40077581	2.7
+55-64 years	55-64	Cocaine	T40.5	2015	2015	1334	40877819	3.3
+55-64 years	55-64	Cocaine	T40.5	2016	2016	1975	41463144	4.8
+55-64 years	55-64	Cocaine	T40.5	2017	2017	2611	41995658	6.2
+55-64 years	55-64	Cocaine	T40.5	2018	2018	2985	42272636	7.1
+55-64 years	55-64	Cocaine	T40.5	2019	2019	3388	42448537	8
+55-64 years	55-64	Other and unspecified narcotics	T40.6	1999	1999	114	23778026	0.5
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2000	2000	120	24274684	0.5
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2001	2001	135	25105295	0.5
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2002	2002	150	26703332	0.6
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2003	2003	191	28008945	0.7
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2004	2004	210	29305304	0.7
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2005	2005	216	30641497	0.7
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2006	2006	256	31930113	0.8
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2007	2007	264	33128434	0.8
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2008	2008	343	34157063	1
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2009	2009	346	35405600	1
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2010	2010	312	36482729	0.9
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2011	2011	389	38062140	1
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2012	2012	384	38586202	1
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2013	2013	415	39316431	1.1
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2014	2014	432	40077581	1.1
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2015	2015	436	40877819	1.1
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2016	2016	451	41463144	1.1
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2017	2017	420	41995658	1
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2018	2018	336	42272636	0.8
+55-64 years	55-64	Other and unspecified narcotics	T40.6	2019	2019	309	42448537	0.7
+55-64 years	55-64	Cannabis (derivatives)	T40.7	1999	1999	2	23778026	Unreliable
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2000	2000	2	24274684	Unreliable
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2001	2001	0	25105295	Unreliable
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2002	2002	0	26703332	Unreliable
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2003	2003	1	28008945	Unreliable
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2004	2004	2	29305304	Unreliable
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2005	2005	4	30641497	Unreliable
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2006	2006	4	31930113	Unreliable
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2007	2007	3	33128434	Unreliable
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2008	2008	13	34157063	Unreliable
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2009	2009	16	35405600	Unreliable
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2010	2010	24	36482729	0.1
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2011	2011	33	38062140	0.1
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2012	2012	25	38586202	0.1
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2013	2013	36	39316431	0.1
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2014	2014	46	40077581	0.1
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2015	2015	65	40877819	0.2
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2016	2016	74	41463144	0.2
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2017	2017	115	41995658	0.3
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2018	2018	127	42272636	0.3
+55-64 years	55-64	Cannabis (derivatives)	T40.7	2019	2019	123	42448537	0.3
+55-64 years	55-64	Lysergide [LSD]	T40.8	1999	1999	0	23778026	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2000	2000	0	24274684	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2001	2001	0	25105295	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2002	2002	0	26703332	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2003	2003	0	28008945	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2004	2004	0	29305304	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2005	2005	0	30641497	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2006	2006	0	31930113	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2007	2007	0	33128434	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2008	2008	0	34157063	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2009	2009	0	35405600	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2010	2010	0	36482729	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2011	2011	0	38062140	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2012	2012	0	38586202	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2013	2013	0	39316431	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2014	2014	0	40077581	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2015	2015	0	40877819	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2016	2016	0	41463144	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2017	2017	1	41995658	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2018	2018	1	42272636	Unreliable
+55-64 years	55-64	Lysergide [LSD]	T40.8	2019	2019	0	42448537	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	1999	1999	0	23778026	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2000	2000	0	24274684	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2001	2001	0	25105295	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2002	2002	0	26703332	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2003	2003	1	28008945	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2004	2004	0	29305304	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2005	2005	2	30641497	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2006	2006	0	31930113	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2007	2007	0	33128434	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2008	2008	0	34157063	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2009	2009	1	35405600	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2010	2010	0	36482729	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2011	2011	0	38062140	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2012	2012	0	38586202	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2013	2013	0	39316431	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2014	2014	2	40077581	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2015	2015	0	40877819	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2016	2016	0	41463144	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2017	2017	0	41995658	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2018	2018	1	42272636	Unreliable
+55-64 years	55-64	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2019	2019	0	42448537	Unreliable
+65-74 years	65-74	Opium	T40.0	1999	1999	0	18418909	Unreliable
+65-74 years	65-74	Opium	T40.0	2000	2000	0	18390986	Unreliable
+65-74 years	65-74	Opium	T40.0	2001	2001	0	18384179	Unreliable
+65-74 years	65-74	Opium	T40.0	2002	2002	0	18388535	Unreliable
+65-74 years	65-74	Opium	T40.0	2003	2003	1	18500915	Unreliable
+65-74 years	65-74	Opium	T40.0	2004	2004	0	18667533	Unreliable
+65-74 years	65-74	Opium	T40.0	2005	2005	0	18881697	Unreliable
+65-74 years	65-74	Opium	T40.0	2006	2006	0	19203027	Unreliable
+65-74 years	65-74	Opium	T40.0	2007	2007	0	19698727	Unreliable
+65-74 years	65-74	Opium	T40.0	2008	2008	0	20505679	Unreliable
+65-74 years	65-74	Opium	T40.0	2009	2009	1	21233099	Unreliable
+65-74 years	65-74	Opium	T40.0	2010	2010	0	21713429	Unreliable
+65-74 years	65-74	Opium	T40.0	2011	2011	0	22481738	Unreliable
+65-74 years	65-74	Opium	T40.0	2012	2012	0	23985392	Unreliable
+65-74 years	65-74	Opium	T40.0	2013	2013	0	25216766	Unreliable
+65-74 years	65-74	Opium	T40.0	2014	2014	0	26398290	Unreliable
+65-74 years	65-74	Opium	T40.0	2015	2015	0	27550517	Unreliable
+65-74 years	65-74	Opium	T40.0	2016	2016	0	28630330	Unreliable
+65-74 years	65-74	Opium	T40.0	2017	2017	0	29683446	Unreliable
+65-74 years	65-74	Opium	T40.0	2018	2018	0	30492316	Unreliable
+65-74 years	65-74	Opium	T40.0	2019	2019	0	31483433	Unreliable
+65-74 years	65-74	Heroin	T40.1	1999	1999	12	18418909	Unreliable
+65-74 years	65-74	Heroin	T40.1	2000	2000	8	18390986	Unreliable
+65-74 years	65-74	Heroin	T40.1	2001	2001	9	18384179	Unreliable
+65-74 years	65-74	Heroin	T40.1	2002	2002	11	18388535	Unreliable
+65-74 years	65-74	Heroin	T40.1	2003	2003	17	18500915	Unreliable
+65-74 years	65-74	Heroin	T40.1	2004	2004	13	18667533	Unreliable
+65-74 years	65-74	Heroin	T40.1	2005	2005	11	18881697	Unreliable
+65-74 years	65-74	Heroin	T40.1	2006	2006	10	19203027	Unreliable
+65-74 years	65-74	Heroin	T40.1	2007	2007	12	19698727	Unreliable
+65-74 years	65-74	Heroin	T40.1	2008	2008	22	20505679	0.1
+65-74 years	65-74	Heroin	T40.1	2009	2009	21	21233099	0.1
+65-74 years	65-74	Heroin	T40.1	2010	2010	18	21713429	Unreliable
+65-74 years	65-74	Heroin	T40.1	2011	2011	36	22481738	0.2
+65-74 years	65-74	Heroin	T40.1	2012	2012	37	23985392	0.2
+65-74 years	65-74	Heroin	T40.1	2013	2013	72	25216766	0.3
+65-74 years	65-74	Heroin	T40.1	2014	2014	135	26398290	0.5
+65-74 years	65-74	Heroin	T40.1	2015	2015	179	27550517	0.6
+65-74 years	65-74	Heroin	T40.1	2016	2016	278	28630330	1
+65-74 years	65-74	Heroin	T40.1	2017	2017	365	29683446	1.2
+65-74 years	65-74	Heroin	T40.1	2018	2018	448	30492316	1.5
+65-74 years	65-74	Heroin	T40.1	2019	2019	542	31483433	1.7
+65-74 years	65-74	Other opioids	T40.2	1999	1999	60	18418909	0.3
+65-74 years	65-74	Other opioids	T40.2	2000	2000	57	18390986	0.3
+65-74 years	65-74	Other opioids	T40.2	2001	2001	60	18384179	0.3
+65-74 years	65-74	Other opioids	T40.2	2002	2002	92	18388535	0.5
+65-74 years	65-74	Other opioids	T40.2	2003	2003	100	18500915	0.5
+65-74 years	65-74	Other opioids	T40.2	2004	2004	110	18667533	0.6
+65-74 years	65-74	Other opioids	T40.2	2005	2005	139	18881697	0.7
+65-74 years	65-74	Other opioids	T40.2	2006	2006	158	19203027	0.8
+65-74 years	65-74	Other opioids	T40.2	2007	2007	178	19698727	0.9
+65-74 years	65-74	Other opioids	T40.2	2008	2008	237	20505679	1.2
+65-74 years	65-74	Other opioids	T40.2	2009	2009	280	21233099	1.3
+65-74 years	65-74	Other opioids	T40.2	2010	2010	280	21713429	1.3
+65-74 years	65-74	Other opioids	T40.2	2011	2011	331	22481738	1.5
+65-74 years	65-74	Other opioids	T40.2	2012	2012	409	23985392	1.7
+65-74 years	65-74	Other opioids	T40.2	2013	2013	475	25216766	1.9
+65-74 years	65-74	Other opioids	T40.2	2014	2014	588	26398290	2.2
+65-74 years	65-74	Other opioids	T40.2	2015	2015	623	27550517	2.3
+65-74 years	65-74	Other opioids	T40.2	2016	2016	723	28630330	2.5
+65-74 years	65-74	Other opioids	T40.2	2017	2017	791	29683446	2.7
+65-74 years	65-74	Other opioids	T40.2	2018	2018	872	30492316	2.9
+65-74 years	65-74	Other opioids	T40.2	2019	2019	915	31483433	2.9
+65-74 years	65-74	Methadone	T40.3	1999	1999	6	18418909	Unreliable
+65-74 years	65-74	Methadone	T40.3	2000	2000	5	18390986	Unreliable
+65-74 years	65-74	Methadone	T40.3	2001	2001	10	18384179	Unreliable
+65-74 years	65-74	Methadone	T40.3	2002	2002	22	18388535	0.1
+65-74 years	65-74	Methadone	T40.3	2003	2003	15	18500915	Unreliable
+65-74 years	65-74	Methadone	T40.3	2004	2004	31	18667533	0.2
+65-74 years	65-74	Methadone	T40.3	2005	2005	42	18881697	0.2
+65-74 years	65-74	Methadone	T40.3	2006	2006	53	19203027	0.3
+65-74 years	65-74	Methadone	T40.3	2007	2007	35	19698727	0.2
+65-74 years	65-74	Methadone	T40.3	2008	2008	56	20505679	0.3
+65-74 years	65-74	Methadone	T40.3	2009	2009	61	21233099	0.3
+65-74 years	65-74	Methadone	T40.3	2010	2010	47	21713429	0.2
+65-74 years	65-74	Methadone	T40.3	2011	2011	72	22481738	0.3
+65-74 years	65-74	Methadone	T40.3	2012	2012	72	23985392	0.3
+65-74 years	65-74	Methadone	T40.3	2013	2013	109	25216766	0.4
+65-74 years	65-74	Methadone	T40.3	2014	2014	101	26398290	0.4
+65-74 years	65-74	Methadone	T40.3	2015	2015	129	27550517	0.5
+65-74 years	65-74	Methadone	T40.3	2016	2016	118	28630330	0.4
+65-74 years	65-74	Methadone	T40.3	2017	2017	155	29683446	0.5
+65-74 years	65-74	Methadone	T40.3	2018	2018	188	30492316	0.6
+65-74 years	65-74	Methadone	T40.3	2019	2019	184	31483433	0.6
+65-74 years	65-74	Other synthetic narcotics	T40.4	1999	1999	24	18418909	0.1
+65-74 years	65-74	Other synthetic narcotics	T40.4	2000	2000	22	18390986	0.1
+65-74 years	65-74	Other synthetic narcotics	T40.4	2001	2001	23	18384179	0.1
+65-74 years	65-74	Other synthetic narcotics	T40.4	2002	2002	35	18388535	0.2
+65-74 years	65-74	Other synthetic narcotics	T40.4	2003	2003	38	18500915	0.2
+65-74 years	65-74	Other synthetic narcotics	T40.4	2004	2004	42	18667533	0.2
+65-74 years	65-74	Other synthetic narcotics	T40.4	2005	2005	47	18881697	0.2
+65-74 years	65-74	Other synthetic narcotics	T40.4	2006	2006	45	19203027	0.2
+65-74 years	65-74	Other synthetic narcotics	T40.4	2007	2007	65	19698727	0.3
+65-74 years	65-74	Other synthetic narcotics	T40.4	2008	2008	67	20505679	0.3
+65-74 years	65-74	Other synthetic narcotics	T40.4	2009	2009	108	21233099	0.5
+65-74 years	65-74	Other synthetic narcotics	T40.4	2010	2010	76	21713429	0.4
+65-74 years	65-74	Other synthetic narcotics	T40.4	2011	2011	73	22481738	0.3
+65-74 years	65-74	Other synthetic narcotics	T40.4	2012	2012	100	23985392	0.4
+65-74 years	65-74	Other synthetic narcotics	T40.4	2013	2013	107	25216766	0.4
+65-74 years	65-74	Other synthetic narcotics	T40.4	2014	2014	150	26398290	0.6
+65-74 years	65-74	Other synthetic narcotics	T40.4	2015	2015	216	27550517	0.8
+65-74 years	65-74	Other synthetic narcotics	T40.4	2016	2016	382	28630330	1.3
+65-74 years	65-74	Other synthetic narcotics	T40.4	2017	2017	587	29683446	2
+65-74 years	65-74	Other synthetic narcotics	T40.4	2018	2018	814	30492316	2.7
+65-74 years	65-74	Other synthetic narcotics	T40.4	2019	2019	1081	31483433	3.4
+65-74 years	65-74	Cocaine	T40.5	1999	1999	30	18418909	0.2
+65-74 years	65-74	Cocaine	T40.5	2000	2000	26	18390986	0.1
+65-74 years	65-74	Cocaine	T40.5	2001	2001	38	18384179	0.2
+65-74 years	65-74	Cocaine	T40.5	2002	2002	27	18388535	0.1
+65-74 years	65-74	Cocaine	T40.5	2003	2003	56	18500915	0.3
+65-74 years	65-74	Cocaine	T40.5	2004	2004	54	18667533	0.3
+65-74 years	65-74	Cocaine	T40.5	2005	2005	76	18881697	0.4
+65-74 years	65-74	Cocaine	T40.5	2006	2006	84	19203027	0.4
+65-74 years	65-74	Cocaine	T40.5	2007	2007	98	19698727	0.5
+65-74 years	65-74	Cocaine	T40.5	2008	2008	81	20505679	0.4
+65-74 years	65-74	Cocaine	T40.5	2009	2009	66	21233099	0.3
+65-74 years	65-74	Cocaine	T40.5	2010	2010	86	21713429	0.4
+65-74 years	65-74	Cocaine	T40.5	2011	2011	88	22481738	0.4
+65-74 years	65-74	Cocaine	T40.5	2012	2012	117	23985392	0.5
+65-74 years	65-74	Cocaine	T40.5	2013	2013	163	25216766	0.6
+65-74 years	65-74	Cocaine	T40.5	2014	2014	192	26398290	0.7
+65-74 years	65-74	Cocaine	T40.5	2015	2015	231	27550517	0.8
+65-74 years	65-74	Cocaine	T40.5	2016	2016	344	28630330	1.2
+65-74 years	65-74	Cocaine	T40.5	2017	2017	465	29683446	1.6
+65-74 years	65-74	Cocaine	T40.5	2018	2018	613	30492316	2
+65-74 years	65-74	Cocaine	T40.5	2019	2019	793	31483433	2.5
+65-74 years	65-74	Other and unspecified narcotics	T40.6	1999	1999	21	18418909	0.1
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2000	2000	24	18390986	0.1
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2001	2001	25	18384179	0.1
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2002	2002	38	18388535	0.2
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2003	2003	40	18500915	0.2
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2004	2004	41	18667533	0.2
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2005	2005	47	18881697	0.2
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2006	2006	41	19203027	0.2
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2007	2007	52	19698727	0.3
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2008	2008	54	20505679	0.3
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2009	2009	41	21233099	0.2
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2010	2010	52	21713429	0.2
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2011	2011	53	22481738	0.2
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2012	2012	66	23985392	0.3
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2013	2013	86	25216766	0.3
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2014	2014	79	26398290	0.3
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2015	2015	99	27550517	0.4
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2016	2016	109	28630330	0.4
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2017	2017	123	29683446	0.4
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2018	2018	96	30492316	0.3
+65-74 years	65-74	Other and unspecified narcotics	T40.6	2019	2019	86	31483433	0.3
+65-74 years	65-74	Cannabis (derivatives)	T40.7	1999	1999	0	18418909	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2000	2000	0	18390986	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2001	2001	0	18384179	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2002	2002	1	18388535	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2003	2003	1	18500915	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2004	2004	0	18667533	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2005	2005	1	18881697	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2006	2006	1	19203027	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2007	2007	1	19698727	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2008	2008	2	20505679	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2009	2009	1	21233099	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2010	2010	3	21713429	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2011	2011	3	22481738	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2012	2012	3	23985392	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2013	2013	11	25216766	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2014	2014	6	26398290	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2015	2015	8	27550517	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2016	2016	12	28630330	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2017	2017	19	29683446	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2018	2018	19	30492316	Unreliable
+65-74 years	65-74	Cannabis (derivatives)	T40.7	2019	2019	31	31483433	0.1
+65-74 years	65-74	Lysergide [LSD]	T40.8	1999	1999	0	18418909	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2000	2000	0	18390986	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2001	2001	0	18384179	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2002	2002	0	18388535	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2003	2003	0	18500915	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2004	2004	0	18667533	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2005	2005	0	18881697	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2006	2006	0	19203027	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2007	2007	0	19698727	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2008	2008	0	20505679	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2009	2009	0	21233099	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2010	2010	0	21713429	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2011	2011	0	22481738	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2012	2012	0	23985392	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2013	2013	0	25216766	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2014	2014	0	26398290	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2015	2015	1	27550517	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2016	2016	0	28630330	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2017	2017	0	29683446	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2018	2018	1	30492316	Unreliable
+65-74 years	65-74	Lysergide [LSD]	T40.8	2019	2019	0	31483433	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	1999	1999	1	18418909	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2000	2000	0	18390986	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2001	2001	0	18384179	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2002	2002	0	18388535	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2003	2003	0	18500915	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2004	2004	0	18667533	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2005	2005	0	18881697	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2006	2006	0	19203027	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2007	2007	1	19698727	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2008	2008	0	20505679	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2009	2009	0	21233099	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2010	2010	0	21713429	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2011	2011	0	22481738	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2012	2012	0	23985392	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2013	2013	0	25216766	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2014	2014	0	26398290	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2015	2015	0	27550517	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2016	2016	0	28630330	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2017	2017	0	29683446	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2018	2018	0	30492316	Unreliable
+65-74 years	65-74	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2019	2019	1	31483433	Unreliable
+75-84 years	75-84	Opium	T40.0	1999	1999	0	12224914	Unreliable
+75-84 years	75-84	Opium	T40.0	2000	2000	0	12361180	Unreliable
+75-84 years	75-84	Opium	T40.0	2001	2001	0	12593618	Unreliable
+75-84 years	75-84	Opium	T40.0	2002	2002	0	12764864	Unreliable
+75-84 years	75-84	Opium	T40.0	2003	2003	0	12896438	Unreliable
+75-84 years	75-84	Opium	T40.0	2004	2004	0	12989903	Unreliable
+75-84 years	75-84	Opium	T40.0	2005	2005	0	13074802	Unreliable
+75-84 years	75-84	Opium	T40.0	2006	2006	0	13095151	Unreliable
+75-84 years	75-84	Opium	T40.0	2007	2007	0	13087439	Unreliable
+75-84 years	75-84	Opium	T40.0	2008	2008	0	13076102	Unreliable
+75-84 years	75-84	Opium	T40.0	2009	2009	0	13022775	Unreliable
+75-84 years	75-84	Opium	T40.0	2010	2010	0	13061122	Unreliable
+75-84 years	75-84	Opium	T40.0	2011	2011	0	13175230	Unreliable
+75-84 years	75-84	Opium	T40.0	2012	2012	0	13272634	Unreliable
+75-84 years	75-84	Opium	T40.0	2013	2013	1	13446519	Unreliable
+75-84 years	75-84	Opium	T40.0	2014	2014	0	13682690	Unreliable
+75-84 years	75-84	Opium	T40.0	2015	2015	0	13923174	Unreliable
+75-84 years	75-84	Opium	T40.0	2016	2016	0	14233534	Unreliable
+75-84 years	75-84	Opium	T40.0	2017	2017	0	14706551	Unreliable
+75-84 years	75-84	Opium	T40.0	2018	2018	0	15394374	Unreliable
+75-84 years	75-84	Opium	T40.0	2019	2019	0	15969872	Unreliable
+75-84 years	75-84	Heroin	T40.1	1999	1999	5	12224914	Unreliable
+75-84 years	75-84	Heroin	T40.1	2000	2000	1	12361180	Unreliable
+75-84 years	75-84	Heroin	T40.1	2001	2001	3	12593618	Unreliable
+75-84 years	75-84	Heroin	T40.1	2002	2002	1	12764864	Unreliable
+75-84 years	75-84	Heroin	T40.1	2003	2003	4	12896438	Unreliable
+75-84 years	75-84	Heroin	T40.1	2004	2004	0	12989903	Unreliable
+75-84 years	75-84	Heroin	T40.1	2005	2005	1	13074802	Unreliable
+75-84 years	75-84	Heroin	T40.1	2006	2006	0	13095151	Unreliable
+75-84 years	75-84	Heroin	T40.1	2007	2007	0	13087439	Unreliable
+75-84 years	75-84	Heroin	T40.1	2008	2008	2	13076102	Unreliable
+75-84 years	75-84	Heroin	T40.1	2009	2009	2	13022775	Unreliable
+75-84 years	75-84	Heroin	T40.1	2010	2010	2	13061122	Unreliable
+75-84 years	75-84	Heroin	T40.1	2011	2011	1	13175230	Unreliable
+75-84 years	75-84	Heroin	T40.1	2012	2012	2	13272634	Unreliable
+75-84 years	75-84	Heroin	T40.1	2013	2013	4	13446519	Unreliable
+75-84 years	75-84	Heroin	T40.1	2014	2014	6	13682690	Unreliable
+75-84 years	75-84	Heroin	T40.1	2015	2015	8	13923174	Unreliable
+75-84 years	75-84	Heroin	T40.1	2016	2016	8	14233534	Unreliable
+75-84 years	75-84	Heroin	T40.1	2017	2017	14	14706551	Unreliable
+75-84 years	75-84	Heroin	T40.1	2018	2018	13	15394374	Unreliable
+75-84 years	75-84	Heroin	T40.1	2019	2019	26	15969872	0.2
+75-84 years	75-84	Other opioids	T40.2	1999	1999	30	12224914	0.2
+75-84 years	75-84	Other opioids	T40.2	2000	2000	23	12361180	0.2
+75-84 years	75-84	Other opioids	T40.2	2001	2001	27	12593618	0.2
+75-84 years	75-84	Other opioids	T40.2	2002	2002	44	12764864	0.3
+75-84 years	75-84	Other opioids	T40.2	2003	2003	50	12896438	0.4
+75-84 years	75-84	Other opioids	T40.2	2004	2004	57	12989903	0.4
+75-84 years	75-84	Other opioids	T40.2	2005	2005	68	13074802	0.5
+75-84 years	75-84	Other opioids	T40.2	2006	2006	56	13095151	0.4
+75-84 years	75-84	Other opioids	T40.2	2007	2007	66	13087439	0.5
+75-84 years	75-84	Other opioids	T40.2	2008	2008	81	13076102	0.6
+75-84 years	75-84	Other opioids	T40.2	2009	2009	89	13022775	0.7
+75-84 years	75-84	Other opioids	T40.2	2010	2010	75	13061122	0.6
+75-84 years	75-84	Other opioids	T40.2	2011	2011	90	13175230	0.7
+75-84 years	75-84	Other opioids	T40.2	2012	2012	96	13272634	0.7
+75-84 years	75-84	Other opioids	T40.2	2013	2013	97	13446519	0.7
+75-84 years	75-84	Other opioids	T40.2	2014	2014	116	13682690	0.8
+75-84 years	75-84	Other opioids	T40.2	2015	2015	141	13923174	1
+75-84 years	75-84	Other opioids	T40.2	2016	2016	136	14233534	1
+75-84 years	75-84	Other opioids	T40.2	2017	2017	170	14706551	1.2
+75-84 years	75-84	Other opioids	T40.2	2018	2018	191	15394374	1.2
+75-84 years	75-84	Other opioids	T40.2	2019	2019	203	15969872	1.3
+75-84 years	75-84	Methadone	T40.3	1999	1999	1	12224914	Unreliable
+75-84 years	75-84	Methadone	T40.3	2000	2000	2	12361180	Unreliable
+75-84 years	75-84	Methadone	T40.3	2001	2001	1	12593618	Unreliable
+75-84 years	75-84	Methadone	T40.3	2002	2002	3	12764864	Unreliable
+75-84 years	75-84	Methadone	T40.3	2003	2003	4	12896438	Unreliable
+75-84 years	75-84	Methadone	T40.3	2004	2004	5	12989903	Unreliable
+75-84 years	75-84	Methadone	T40.3	2005	2005	8	13074802	Unreliable
+75-84 years	75-84	Methadone	T40.3	2006	2006	8	13095151	Unreliable
+75-84 years	75-84	Methadone	T40.3	2007	2007	15	13087439	Unreliable
+75-84 years	75-84	Methadone	T40.3	2008	2008	9	13076102	Unreliable
+75-84 years	75-84	Methadone	T40.3	2009	2009	12	13022775	Unreliable
+75-84 years	75-84	Methadone	T40.3	2010	2010	4	13061122	Unreliable
+75-84 years	75-84	Methadone	T40.3	2011	2011	6	13175230	Unreliable
+75-84 years	75-84	Methadone	T40.3	2012	2012	9	13272634	Unreliable
+75-84 years	75-84	Methadone	T40.3	2013	2013	8	13446519	Unreliable
+75-84 years	75-84	Methadone	T40.3	2014	2014	6	13682690	Unreliable
+75-84 years	75-84	Methadone	T40.3	2015	2015	6	13923174	Unreliable
+75-84 years	75-84	Methadone	T40.3	2016	2016	8	14233534	Unreliable
+75-84 years	75-84	Methadone	T40.3	2017	2017	10	14706551	Unreliable
+75-84 years	75-84	Methadone	T40.3	2018	2018	11	15394374	Unreliable
+75-84 years	75-84	Methadone	T40.3	2019	2019	12	15969872	Unreliable
+75-84 years	75-84	Other synthetic narcotics	T40.4	1999	1999	23	12224914	0.2
+75-84 years	75-84	Other synthetic narcotics	T40.4	2000	2000	9	12361180	Unreliable
+75-84 years	75-84	Other synthetic narcotics	T40.4	2001	2001	16	12593618	Unreliable
+75-84 years	75-84	Other synthetic narcotics	T40.4	2002	2002	19	12764864	Unreliable
+75-84 years	75-84	Other synthetic narcotics	T40.4	2003	2003	22	12896438	0.2
+75-84 years	75-84	Other synthetic narcotics	T40.4	2004	2004	19	12989903	Unreliable
+75-84 years	75-84	Other synthetic narcotics	T40.4	2005	2005	23	13074802	0.2
+75-84 years	75-84	Other synthetic narcotics	T40.4	2006	2006	32	13095151	0.2
+75-84 years	75-84	Other synthetic narcotics	T40.4	2007	2007	24	13087439	0.2
+75-84 years	75-84	Other synthetic narcotics	T40.4	2008	2008	15	13076102	Unreliable
+75-84 years	75-84	Other synthetic narcotics	T40.4	2009	2009	27	13022775	0.2
+75-84 years	75-84	Other synthetic narcotics	T40.4	2010	2010	29	13061122	0.2
+75-84 years	75-84	Other synthetic narcotics	T40.4	2011	2011	29	13175230	0.2
+75-84 years	75-84	Other synthetic narcotics	T40.4	2012	2012	32	13272634	0.2
+75-84 years	75-84	Other synthetic narcotics	T40.4	2013	2013	25	13446519	0.2
+75-84 years	75-84	Other synthetic narcotics	T40.4	2014	2014	30	13682690	0.2
+75-84 years	75-84	Other synthetic narcotics	T40.4	2015	2015	31	13923174	0.2
+75-84 years	75-84	Other synthetic narcotics	T40.4	2016	2016	39	14233534	0.3
+75-84 years	75-84	Other synthetic narcotics	T40.4	2017	2017	50	14706551	0.3
+75-84 years	75-84	Other synthetic narcotics	T40.4	2018	2018	71	15394374	0.5
+75-84 years	75-84	Other synthetic narcotics	T40.4	2019	2019	80	15969872	0.5
+75-84 years	75-84	Cocaine	T40.5	1999	1999	6	12224914	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2000	2000	11	12361180	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2001	2001	7	12593618	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2002	2002	3	12764864	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2003	2003	8	12896438	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2004	2004	12	12989903	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2005	2005	10	13074802	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2006	2006	10	13095151	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2007	2007	5	13087439	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2008	2008	9	13076102	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2009	2009	9	13022775	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2010	2010	13	13061122	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2011	2011	9	13175230	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2012	2012	10	13272634	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2013	2013	13	13446519	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2014	2014	15	13682690	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2015	2015	11	13923174	Unreliable
+75-84 years	75-84	Cocaine	T40.5	2016	2016	28	14233534	0.2
+75-84 years	75-84	Cocaine	T40.5	2017	2017	33	14706551	0.2
+75-84 years	75-84	Cocaine	T40.5	2018	2018	31	15394374	0.2
+75-84 years	75-84	Cocaine	T40.5	2019	2019	43	15969872	0.3
+75-84 years	75-84	Other and unspecified narcotics	T40.6	1999	1999	9	12224914	Unreliable
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2000	2000	11	12361180	Unreliable
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2001	2001	14	12593618	Unreliable
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2002	2002	11	12764864	Unreliable
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2003	2003	16	12896438	Unreliable
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2004	2004	20	12989903	0.2
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2005	2005	17	13074802	Unreliable
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2006	2006	20	13095151	0.2
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2007	2007	20	13087439	0.2
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2008	2008	22	13076102	0.2
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2009	2009	28	13022775	0.2
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2010	2010	17	13061122	Unreliable
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2011	2011	11	13175230	Unreliable
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2012	2012	18	13272634	Unreliable
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2013	2013	13	13446519	Unreliable
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2014	2014	17	13682690	Unreliable
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2015	2015	26	13923174	0.2
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2016	2016	22	14233534	0.2
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2017	2017	30	14706551	0.2
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2018	2018	30	15394374	0.2
+75-84 years	75-84	Other and unspecified narcotics	T40.6	2019	2019	21	15969872	0.1
+75-84 years	75-84	Cannabis (derivatives)	T40.7	1999	1999	1	12224914	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2000	2000	0	12361180	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2001	2001	0	12593618	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2002	2002	0	12764864	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2003	2003	1	12896438	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2004	2004	0	12989903	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2005	2005	0	13074802	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2006	2006	0	13095151	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2007	2007	1	13087439	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2008	2008	0	13076102	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2009	2009	0	13022775	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2010	2010	0	13061122	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2011	2011	0	13175230	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2012	2012	0	13272634	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2013	2013	0	13446519	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2014	2014	0	13682690	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2015	2015	0	13923174	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2016	2016	2	14233534	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2017	2017	2	14706551	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2018	2018	3	15394374	Unreliable
+75-84 years	75-84	Cannabis (derivatives)	T40.7	2019	2019	1	15969872	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	1999	1999	0	12224914	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2000	2000	0	12361180	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2001	2001	0	12593618	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2002	2002	0	12764864	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2003	2003	0	12896438	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2004	2004	0	12989903	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2005	2005	0	13074802	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2006	2006	0	13095151	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2007	2007	0	13087439	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2008	2008	0	13076102	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2009	2009	0	13022775	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2010	2010	0	13061122	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2011	2011	0	13175230	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2012	2012	0	13272634	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2013	2013	0	13446519	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2014	2014	0	13682690	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2015	2015	0	13923174	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2016	2016	0	14233534	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2017	2017	0	14706551	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2018	2018	0	15394374	Unreliable
+75-84 years	75-84	Lysergide [LSD]	T40.8	2019	2019	0	15969872	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	1999	1999	0	12224914	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2000	2000	1	12361180	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2001	2001	0	12593618	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2002	2002	0	12764864	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2003	2003	0	12896438	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2004	2004	0	12989903	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2005	2005	0	13074802	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2006	2006	0	13095151	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2007	2007	0	13087439	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2008	2008	0	13076102	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2009	2009	0	13022775	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2010	2010	0	13061122	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2011	2011	0	13175230	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2012	2012	0	13272634	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2013	2013	0	13446519	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2014	2014	0	13682690	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2015	2015	0	13923174	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2016	2016	0	14233534	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2017	2017	0	14706551	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2018	2018	0	15394374	Unreliable
+75-84 years	75-84	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2019	2019	0	15969872	Unreliable
+85+ years	85+	Opium	T40.0	1999	1999	0	4154018	Unreliable
+85+ years	85+	Opium	T40.0	2000	2000	0	4239587	Unreliable
+85+ years	85+	Opium	T40.0	2001	2001	1	4312494	Unreliable
+85+ years	85+	Opium	T40.0	2002	2002	1	4368808	Unreliable
+85+ years	85+	Opium	T40.0	2003	2003	0	4466176	Unreliable
+85+ years	85+	Opium	T40.0	2004	2004	0	4545883	Unreliable
+85+ years	85+	Opium	T40.0	2005	2005	0	4693299	Unreliable
+85+ years	85+	Opium	T40.0	2006	2006	0	4865929	Unreliable
+85+ years	85+	Opium	T40.0	2007	2007	0	5039545	Unreliable
+85+ years	85+	Opium	T40.0	2008	2008	0	5195840	Unreliable
+85+ years	85+	Opium	T40.0	2009	2009	0	5367301	Unreliable
+85+ years	85+	Opium	T40.0	2010	2010	0	5493433	Unreliable
+85+ years	85+	Opium	T40.0	2011	2011	0	5737173	Unreliable
+85+ years	85+	Opium	T40.0	2012	2012	0	5887330	Unreliable
+85+ years	85+	Opium	T40.0	2013	2013	0	6040789	Unreliable
+85+ years	85+	Opium	T40.0	2014	2014	0	6162231	Unreliable
+85+ years	85+	Opium	T40.0	2015	2015	0	6287161	Unreliable
+85+ years	85+	Opium	T40.0	2016	2016	0	6380331	Unreliable
+85+ years	85+	Opium	T40.0	2017	2017	0	6468682	Unreliable
+85+ years	85+	Opium	T40.0	2018	2018	0	6544503	Unreliable
+85+ years	85+	Opium	T40.0	2019	2019	0	6604958	Unreliable
+85+ years	85+	Heroin	T40.1	1999	1999	4	4154018	Unreliable
+85+ years	85+	Heroin	T40.1	2000	2000	0	4239587	Unreliable
+85+ years	85+	Heroin	T40.1	2001	2001	0	4312494	Unreliable
+85+ years	85+	Heroin	T40.1	2002	2002	0	4368808	Unreliable
+85+ years	85+	Heroin	T40.1	2003	2003	1	4466176	Unreliable
+85+ years	85+	Heroin	T40.1	2004	2004	0	4545883	Unreliable
+85+ years	85+	Heroin	T40.1	2005	2005	1	4693299	Unreliable
+85+ years	85+	Heroin	T40.1	2006	2006	2	4865929	Unreliable
+85+ years	85+	Heroin	T40.1	2007	2007	3	5039545	Unreliable
+85+ years	85+	Heroin	T40.1	2008	2008	2	5195840	Unreliable
+85+ years	85+	Heroin	T40.1	2009	2009	1	5367301	Unreliable
+85+ years	85+	Heroin	T40.1	2010	2010	0	5493433	Unreliable
+85+ years	85+	Heroin	T40.1	2011	2011	0	5737173	Unreliable
+85+ years	85+	Heroin	T40.1	2012	2012	1	5887330	Unreliable
+85+ years	85+	Heroin	T40.1	2013	2013	2	6040789	Unreliable
+85+ years	85+	Heroin	T40.1	2014	2014	4	6162231	Unreliable
+85+ years	85+	Heroin	T40.1	2015	2015	1	6287161	Unreliable
+85+ years	85+	Heroin	T40.1	2016	2016	0	6380331	Unreliable
+85+ years	85+	Heroin	T40.1	2017	2017	5	6468682	Unreliable
+85+ years	85+	Heroin	T40.1	2018	2018	1	6544503	Unreliable
+85+ years	85+	Heroin	T40.1	2019	2019	1	6604958	Unreliable
+85+ years	85+	Other opioids	T40.2	1999	1999	11	4154018	Unreliable
+85+ years	85+	Other opioids	T40.2	2000	2000	9	4239587	Unreliable
+85+ years	85+	Other opioids	T40.2	2001	2001	13	4312494	Unreliable
+85+ years	85+	Other opioids	T40.2	2002	2002	22	4368808	0.5
+85+ years	85+	Other opioids	T40.2	2003	2003	28	4466176	0.6
+85+ years	85+	Other opioids	T40.2	2004	2004	17	4545883	Unreliable
+85+ years	85+	Other opioids	T40.2	2005	2005	34	4693299	0.7
+85+ years	85+	Other opioids	T40.2	2006	2006	30	4865929	0.6
+85+ years	85+	Other opioids	T40.2	2007	2007	41	5039545	0.8
+85+ years	85+	Other opioids	T40.2	2008	2008	31	5195840	0.6
+85+ years	85+	Other opioids	T40.2	2009	2009	29	5367301	0.5
+85+ years	85+	Other opioids	T40.2	2010	2010	57	5493433	1
+85+ years	85+	Other opioids	T40.2	2011	2011	39	5737173	0.7
+85+ years	85+	Other opioids	T40.2	2012	2012	45	5887330	0.8
+85+ years	85+	Other opioids	T40.2	2013	2013	59	6040789	1
+85+ years	85+	Other opioids	T40.2	2014	2014	54	6162231	0.9
+85+ years	85+	Other opioids	T40.2	2015	2015	51	6287161	0.8
+85+ years	85+	Other opioids	T40.2	2016	2016	46	6380331	0.7
+85+ years	85+	Other opioids	T40.2	2017	2017	67	6468682	1
+85+ years	85+	Other opioids	T40.2	2018	2018	57	6544503	0.9
+85+ years	85+	Other opioids	T40.2	2019	2019	67	6604958	1
+85+ years	85+	Methadone	T40.3	1999	1999	1	4154018	Unreliable
+85+ years	85+	Methadone	T40.3	2000	2000	1	4239587	Unreliable
+85+ years	85+	Methadone	T40.3	2001	2001	2	4312494	Unreliable
+85+ years	85+	Methadone	T40.3	2002	2002	2	4368808	Unreliable
+85+ years	85+	Methadone	T40.3	2003	2003	4	4466176	Unreliable
+85+ years	85+	Methadone	T40.3	2004	2004	2	4545883	Unreliable
+85+ years	85+	Methadone	T40.3	2005	2005	4	4693299	Unreliable
+85+ years	85+	Methadone	T40.3	2006	2006	7	4865929	Unreliable
+85+ years	85+	Methadone	T40.3	2007	2007	2	5039545	Unreliable
+85+ years	85+	Methadone	T40.3	2008	2008	3	5195840	Unreliable
+85+ years	85+	Methadone	T40.3	2009	2009	4	5367301	Unreliable
+85+ years	85+	Methadone	T40.3	2010	2010	3	5493433	Unreliable
+85+ years	85+	Methadone	T40.3	2011	2011	4	5737173	Unreliable
+85+ years	85+	Methadone	T40.3	2012	2012	4	5887330	Unreliable
+85+ years	85+	Methadone	T40.3	2013	2013	5	6040789	Unreliable
+85+ years	85+	Methadone	T40.3	2014	2014	2	6162231	Unreliable
+85+ years	85+	Methadone	T40.3	2015	2015	2	6287161	Unreliable
+85+ years	85+	Methadone	T40.3	2016	2016	4	6380331	Unreliable
+85+ years	85+	Methadone	T40.3	2017	2017	2	6468682	Unreliable
+85+ years	85+	Methadone	T40.3	2018	2018	1	6544503	Unreliable
+85+ years	85+	Methadone	T40.3	2019	2019	1	6604958	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	1999	1999	0	4154018	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2000	2000	11	4239587	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2001	2001	9	4312494	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2002	2002	10	4368808	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2003	2003	5	4466176	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2004	2004	11	4545883	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2005	2005	14	4693299	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2006	2006	7	4865929	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2007	2007	15	5039545	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2008	2008	6	5195840	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2009	2009	9	5367301	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2010	2010	16	5493433	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2011	2011	10	5737173	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2012	2012	5	5887330	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2013	2013	8	6040789	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2014	2014	14	6162231	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2015	2015	17	6287161	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2016	2016	11	6380331	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2017	2017	13	6468682	Unreliable
+85+ years	85+	Other synthetic narcotics	T40.4	2018	2018	24	6544503	0.4
+85+ years	85+	Other synthetic narcotics	T40.4	2019	2019	13	6604958	Unreliable
+85+ years	85+	Cocaine	T40.5	1999	1999	5	4154018	Unreliable
+85+ years	85+	Cocaine	T40.5	2000	2000	3	4239587	Unreliable
+85+ years	85+	Cocaine	T40.5	2001	2001	4	4312494	Unreliable
+85+ years	85+	Cocaine	T40.5	2002	2002	6	4368808	Unreliable
+85+ years	85+	Cocaine	T40.5	2003	2003	7	4466176	Unreliable
+85+ years	85+	Cocaine	T40.5	2004	2004	2	4545883	Unreliable
+85+ years	85+	Cocaine	T40.5	2005	2005	4	4693299	Unreliable
+85+ years	85+	Cocaine	T40.5	2006	2006	7	4865929	Unreliable
+85+ years	85+	Cocaine	T40.5	2007	2007	6	5039545	Unreliable
+85+ years	85+	Cocaine	T40.5	2008	2008	2	5195840	Unreliable
+85+ years	85+	Cocaine	T40.5	2009	2009	1	5367301	Unreliable
+85+ years	85+	Cocaine	T40.5	2010	2010	1	5493433	Unreliable
+85+ years	85+	Cocaine	T40.5	2011	2011	0	5737173	Unreliable
+85+ years	85+	Cocaine	T40.5	2012	2012	0	5887330	Unreliable
+85+ years	85+	Cocaine	T40.5	2013	2013	2	6040789	Unreliable
+85+ years	85+	Cocaine	T40.5	2014	2014	2	6162231	Unreliable
+85+ years	85+	Cocaine	T40.5	2015	2015	0	6287161	Unreliable
+85+ years	85+	Cocaine	T40.5	2016	2016	1	6380331	Unreliable
+85+ years	85+	Cocaine	T40.5	2017	2017	2	6468682	Unreliable
+85+ years	85+	Cocaine	T40.5	2018	2018	2	6544503	Unreliable
+85+ years	85+	Cocaine	T40.5	2019	2019	2	6604958	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	1999	1999	3	4154018	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2000	2000	5	4239587	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2001	2001	8	4312494	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2002	2002	6	4368808	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2003	2003	9	4466176	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2004	2004	5	4545883	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2005	2005	4	4693299	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2006	2006	8	4865929	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2007	2007	9	5039545	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2008	2008	5	5195840	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2009	2009	11	5367301	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2010	2010	9	5493433	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2011	2011	7	5737173	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2012	2012	9	5887330	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2013	2013	11	6040789	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2014	2014	15	6162231	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2015	2015	7	6287161	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2016	2016	11	6380331	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2017	2017	11	6468682	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2018	2018	8	6544503	Unreliable
+85+ years	85+	Other and unspecified narcotics	T40.6	2019	2019	6	6604958	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	1999	1999	0	4154018	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2000	2000	0	4239587	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2001	2001	0	4312494	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2002	2002	0	4368808	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2003	2003	0	4466176	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2004	2004	0	4545883	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2005	2005	0	4693299	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2006	2006	0	4865929	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2007	2007	0	5039545	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2008	2008	0	5195840	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2009	2009	0	5367301	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2010	2010	0	5493433	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2011	2011	0	5737173	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2012	2012	0	5887330	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2013	2013	0	6040789	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2014	2014	0	6162231	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2015	2015	0	6287161	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2016	2016	0	6380331	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2017	2017	2	6468682	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2018	2018	0	6544503	Unreliable
+85+ years	85+	Cannabis (derivatives)	T40.7	2019	2019	0	6604958	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	1999	1999	0	4154018	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2000	2000	0	4239587	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2001	2001	0	4312494	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2002	2002	0	4368808	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2003	2003	0	4466176	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2004	2004	0	4545883	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2005	2005	0	4693299	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2006	2006	0	4865929	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2007	2007	0	5039545	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2008	2008	0	5195840	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2009	2009	0	5367301	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2010	2010	0	5493433	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2011	2011	0	5737173	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2012	2012	0	5887330	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2013	2013	0	6040789	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2014	2014	0	6162231	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2015	2015	0	6287161	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2016	2016	0	6380331	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2017	2017	0	6468682	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2018	2018	0	6544503	Unreliable
+85+ years	85+	Lysergide [LSD]	T40.8	2019	2019	0	6604958	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	1999	1999	0	4154018	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2000	2000	0	4239587	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2001	2001	0	4312494	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2002	2002	0	4368808	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2003	2003	0	4466176	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2004	2004	0	4545883	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2005	2005	0	4693299	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2006	2006	0	4865929	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2007	2007	0	5039545	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2008	2008	0	5195840	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2009	2009	0	5367301	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2010	2010	0	5493433	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2011	2011	0	5737173	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2012	2012	0	5887330	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2013	2013	0	6040789	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2014	2014	0	6162231	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2015	2015	0	6287161	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2016	2016	0	6380331	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2017	2017	0	6468682	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2018	2018	0	6544503	Unreliable
+85+ years	85+	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2019	2019	0	6604958	Unreliable
+Not Stated	NS	Opium	T40.0	1999	1999	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2000	2000	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2001	2001	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2002	2002	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2003	2003	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2004	2004	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2005	2005	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2006	2006	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2007	2007	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2008	2008	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2009	2009	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2010	2010	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2011	2011	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2012	2012	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2013	2013	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2014	2014	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2015	2015	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2016	2016	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2017	2017	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2018	2018	0	Not Applicable	Not Applicable
+Not Stated	NS	Opium	T40.0	2019	2019	0	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	1999	1999	2	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2000	2000	4	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2001	2001	1	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2002	2002	0	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2003	2003	0	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2004	2004	1	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2005	2005	0	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2006	2006	3	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2007	2007	1	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2008	2008	0	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2009	2009	0	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2010	2010	0	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2011	2011	1	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2012	2012	1	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2013	2013	2	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2014	2014	0	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2015	2015	0	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2016	2016	1	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2017	2017	5	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2018	2018	4	Not Applicable	Not Applicable
+Not Stated	NS	Heroin	T40.1	2019	2019	1	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	1999	1999	4	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2000	2000	2	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2001	2001	3	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2002	2002	2	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2003	2003	1	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2004	2004	1	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2005	2005	1	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2006	2006	2	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2007	2007	1	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2008	2008	1	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2009	2009	1	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2010	2010	1	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2011	2011	2	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2012	2012	0	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2013	2013	2	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2014	2014	1	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2015	2015	1	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2016	2016	1	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2017	2017	5	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2018	2018	4	Not Applicable	Not Applicable
+Not Stated	NS	Other opioids	T40.2	2019	2019	2	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	1999	1999	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2000	2000	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2001	2001	2	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2002	2002	1	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2003	2003	1	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2004	2004	2	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2005	2005	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2006	2006	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2007	2007	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2008	2008	1	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2009	2009	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2010	2010	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2011	2011	1	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2012	2012	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2013	2013	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2014	2014	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2015	2015	1	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2016	2016	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2017	2017	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2018	2018	0	Not Applicable	Not Applicable
+Not Stated	NS	Methadone	T40.3	2019	2019	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	1999	1999	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2000	2000	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2001	2001	1	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2002	2002	1	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2003	2003	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2004	2004	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2005	2005	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2006	2006	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2007	2007	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2008	2008	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2009	2009	1	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2010	2010	1	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2011	2011	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2012	2012	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2013	2013	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2014	2014	0	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2015	2015	1	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2016	2016	3	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2017	2017	6	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2018	2018	8	Not Applicable	Not Applicable
+Not Stated	NS	Other synthetic narcotics	T40.4	2019	2019	5	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	1999	1999	8	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2000	2000	5	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2001	2001	6	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2002	2002	5	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2003	2003	7	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2004	2004	2	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2005	2005	2	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2006	2006	5	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2007	2007	1	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2008	2008	0	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2009	2009	1	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2010	2010	4	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2011	2011	1	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2012	2012	1	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2013	2013	2	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2014	2014	0	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2015	2015	0	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2016	2016	3	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2017	2017	7	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2018	2018	7	Not Applicable	Not Applicable
+Not Stated	NS	Cocaine	T40.5	2019	2019	3	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	1999	1999	2	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2000	2000	5	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2001	2001	1	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2002	2002	4	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2003	2003	2	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2004	2004	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2005	2005	1	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2006	2006	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2007	2007	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2008	2008	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2009	2009	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2010	2010	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2011	2011	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2012	2012	1	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2013	2013	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2014	2014	1	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2015	2015	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2016	2016	1	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2017	2017	1	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2018	2018	1	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified narcotics	T40.6	2019	2019	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	1999	1999	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2000	2000	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2001	2001	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2002	2002	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2003	2003	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2004	2004	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2005	2005	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2006	2006	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2007	2007	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2008	2008	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2009	2009	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2010	2010	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2011	2011	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2012	2012	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2013	2013	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2014	2014	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2015	2015	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2016	2016	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2017	2017	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2018	2018	0	Not Applicable	Not Applicable
+Not Stated	NS	Cannabis (derivatives)	T40.7	2019	2019	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	1999	1999	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2000	2000	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2001	2001	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2002	2002	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2003	2003	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2004	2004	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2005	2005	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2006	2006	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2007	2007	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2008	2008	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2009	2009	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2010	2010	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2011	2011	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2012	2012	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2013	2013	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2014	2014	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2015	2015	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2016	2016	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2017	2017	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2018	2018	0	Not Applicable	Not Applicable
+Not Stated	NS	Lysergide [LSD]	T40.8	2019	2019	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	1999	1999	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2000	2000	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2001	2001	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2002	2002	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2003	2003	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2004	2004	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2005	2005	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2006	2006	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2007	2007	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2008	2008	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2009	2009	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2010	2010	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2011	2011	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2012	2012	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2013	2013	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2014	2014	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2015	2015	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2016	2016	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2017	2017	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2018	2018	0	Not Applicable	Not Applicable
+Not Stated	NS	Other and unspecified psychodysleptics [hallucinogens]	T40.9	2019	2019	0	Not Applicable	Not Applicable

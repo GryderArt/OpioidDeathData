@@ -1,0 +1,518 @@
+Ten-Year Age Groups	Ten-Year Age Groups Code	Month	Month Code	Deaths
+< 1 year	1	Jan., 2018	2018/01	2
+< 1 year	1	Feb., 2018	2018/02	2
+< 1 year	1	Mar., 2018	2018/03	3
+< 1 year	1	Apr., 2018	2018/04	2
+< 1 year	1	May, 2018	2018/05	3
+< 1 year	1	Jun., 2018	2018/06	1
+< 1 year	1	Jul., 2018	2018/07	2
+< 1 year	1	Aug., 2018	2018/08	0
+< 1 year	1	Sep., 2018	2018/09	1
+< 1 year	1	Oct., 2018	2018/10	2
+< 1 year	1	Nov., 2018	2018/11	3
+< 1 year	1	Dec., 2018	2018/12	1
+< 1 year	1	Jan., 2019	2019/01	4
+< 1 year	1	Feb., 2019	2019/02	1
+< 1 year	1	Mar., 2019	2019/03	2
+< 1 year	1	Apr., 2019	2019/04	1
+< 1 year	1	May, 2019	2019/05	1
+< 1 year	1	Jun., 2019	2019/06	3
+< 1 year	1	Jul., 2019	2019/07	2
+< 1 year	1	Aug., 2019	2019/08	2
+< 1 year	1	Sep., 2019	2019/09	4
+< 1 year	1	Oct., 2019	2019/10	2
+< 1 year	1	Nov., 2019	2019/11	2
+< 1 year	1	Dec., 2019	2019/12	3
+< 1 year	1	Jan., 2020 (provisional)	2020/01	2
+< 1 year	1	Feb., 2020 (provisional)	2020/02	2
+< 1 year	1	Mar., 2020 (provisional)	2020/03	0
+< 1 year	1	Apr., 2020 (provisional)	2020/04	4
+< 1 year	1	May, 2020 (provisional)	2020/05	4
+< 1 year	1	Jun., 2020 (provisional)	2020/06	4
+< 1 year	1	Jul., 2020 (provisional)	2020/07	3
+< 1 year	1	Aug., 2020 (provisional)	2020/08	2
+< 1 year	1	Sep., 2020 (provisional)	2020/09	1
+< 1 year	1	Oct., 2020 (provisional)	2020/10	4
+< 1 year	1	Nov., 2020 (provisional)	2020/11	1
+< 1 year	1	Dec., 2020 (provisional)	2020/12	0
+< 1 year	1	Jan., 2021 (provisional)	2021/01	2
+< 1 year	1	Feb., 2021 (provisional)	2021/02	3
+< 1 year	1	Mar., 2021 (provisional)	2021/03	0
+< 1 year	1	Apr., 2021 (provisional)	2021/04	4
+< 1 year	1	May, 2021 (provisional)	2021/05	6
+< 1 year	1	Jun., 2021 (provisional)	2021/06	1
+< 1 year	1	Jul., 2021 (provisional)	2021/07	1
+< 1 year	1	Aug., 2021 (provisional)	2021/08	1
+< 1 year	1	Sep., 2021 (provisional)	2021/09	2
+< 1 year	1	Oct., 2021 (provisional)	2021/10	0
+< 1 year	1	Nov., 2021 (provisional and partial)	2021/11	0
+1-4 years	4-Jan	Jan., 2018	2018/01	1
+1-4 years	4-Jan	Feb., 2018	2018/02	1
+1-4 years	4-Jan	Mar., 2018	2018/03	3
+1-4 years	4-Jan	Apr., 2018	2018/04	3
+1-4 years	4-Jan	May, 2018	2018/05	4
+1-4 years	4-Jan	Jun., 2018	2018/06	1
+1-4 years	4-Jan	Jul., 2018	2018/07	4
+1-4 years	4-Jan	Aug., 2018	2018/08	2
+1-4 years	4-Jan	Sep., 2018	2018/09	1
+1-4 years	4-Jan	Oct., 2018	2018/10	5
+1-4 years	4-Jan	Nov., 2018	2018/11	1
+1-4 years	4-Jan	Dec., 2018	2018/12	5
+1-4 years	4-Jan	Jan., 2019	2019/01	4
+1-4 years	4-Jan	Feb., 2019	2019/02	4
+1-4 years	4-Jan	Mar., 2019	2019/03	3
+1-4 years	4-Jan	Apr., 2019	2019/04	2
+1-4 years	4-Jan	May, 2019	2019/05	2
+1-4 years	4-Jan	Jun., 2019	2019/06	1
+1-4 years	4-Jan	Jul., 2019	2019/07	3
+1-4 years	4-Jan	Aug., 2019	2019/08	5
+1-4 years	4-Jan	Sep., 2019	2019/09	8
+1-4 years	4-Jan	Oct., 2019	2019/10	4
+1-4 years	4-Jan	Nov., 2019	2019/11	3
+1-4 years	4-Jan	Dec., 2019	2019/12	5
+1-4 years	4-Jan	Jan., 2020 (provisional)	2020/01	5
+1-4 years	4-Jan	Feb., 2020 (provisional)	2020/02	2
+1-4 years	4-Jan	Mar., 2020 (provisional)	2020/03	6
+1-4 years	4-Jan	Apr., 2020 (provisional)	2020/04	5
+1-4 years	4-Jan	May, 2020 (provisional)	2020/05	4
+1-4 years	4-Jan	Jun., 2020 (provisional)	2020/06	4
+1-4 years	4-Jan	Jul., 2020 (provisional)	2020/07	7
+1-4 years	4-Jan	Aug., 2020 (provisional)	2020/08	3
+1-4 years	4-Jan	Sep., 2020 (provisional)	2020/09	7
+1-4 years	4-Jan	Oct., 2020 (provisional)	2020/10	7
+1-4 years	4-Jan	Nov., 2020 (provisional)	2020/11	5
+1-4 years	4-Jan	Dec., 2020 (provisional)	2020/12	3
+1-4 years	4-Jan	Jan., 2021 (provisional)	2021/01	4
+1-4 years	4-Jan	Feb., 2021 (provisional)	2021/02	6
+1-4 years	4-Jan	Mar., 2021 (provisional)	2021/03	5
+1-4 years	4-Jan	Apr., 2021 (provisional)	2021/04	10
+1-4 years	4-Jan	May, 2021 (provisional)	2021/05	3
+1-4 years	4-Jan	Jun., 2021 (provisional)	2021/06	8
+1-4 years	4-Jan	Jul., 2021 (provisional)	2021/07	10
+1-4 years	4-Jan	Aug., 2021 (provisional)	2021/08	7
+1-4 years	4-Jan	Sep., 2021 (provisional)	2021/09	2
+1-4 years	4-Jan	Oct., 2021 (provisional)	2021/10	1
+1-4 years	4-Jan	Nov., 2021 (provisional and partial)	2021/11	0
+5-14 years	14-May	Jan., 2018	2018/01	2
+5-14 years	14-May	Feb., 2018	2018/02	0
+5-14 years	14-May	Mar., 2018	2018/03	0
+5-14 years	14-May	Apr., 2018	2018/04	3
+5-14 years	14-May	May, 2018	2018/05	3
+5-14 years	14-May	Jun., 2018	2018/06	2
+5-14 years	14-May	Jul., 2018	2018/07	2
+5-14 years	14-May	Aug., 2018	2018/08	1
+5-14 years	14-May	Sep., 2018	2018/09	3
+5-14 years	14-May	Oct., 2018	2018/10	1
+5-14 years	14-May	Nov., 2018	2018/11	4
+5-14 years	14-May	Dec., 2018	2018/12	3
+5-14 years	14-May	Jan., 2019	2019/01	1
+5-14 years	14-May	Feb., 2019	2019/02	3
+5-14 years	14-May	Mar., 2019	2019/03	5
+5-14 years	14-May	Apr., 2019	2019/04	3
+5-14 years	14-May	May, 2019	2019/05	3
+5-14 years	14-May	Jun., 2019	2019/06	1
+5-14 years	14-May	Jul., 2019	2019/07	2
+5-14 years	14-May	Aug., 2019	2019/08	4
+5-14 years	14-May	Sep., 2019	2019/09	4
+5-14 years	14-May	Oct., 2019	2019/10	4
+5-14 years	14-May	Nov., 2019	2019/11	2
+5-14 years	14-May	Dec., 2019	2019/12	3
+5-14 years	14-May	Jan., 2020 (provisional)	2020/01	3
+5-14 years	14-May	Feb., 2020 (provisional)	2020/02	5
+5-14 years	14-May	Mar., 2020 (provisional)	2020/03	3
+5-14 years	14-May	Apr., 2020 (provisional)	2020/04	5
+5-14 years	14-May	May, 2020 (provisional)	2020/05	6
+5-14 years	14-May	Jun., 2020 (provisional)	2020/06	7
+5-14 years	14-May	Jul., 2020 (provisional)	2020/07	2
+5-14 years	14-May	Aug., 2020 (provisional)	2020/08	9
+5-14 years	14-May	Sep., 2020 (provisional)	2020/09	9
+5-14 years	14-May	Oct., 2020 (provisional)	2020/10	7
+5-14 years	14-May	Nov., 2020 (provisional)	2020/11	7
+5-14 years	14-May	Dec., 2020 (provisional)	2020/12	2
+5-14 years	14-May	Jan., 2021 (provisional)	2021/01	6
+5-14 years	14-May	Feb., 2021 (provisional)	2021/02	5
+5-14 years	14-May	Mar., 2021 (provisional)	2021/03	8
+5-14 years	14-May	Apr., 2021 (provisional)	2021/04	4
+5-14 years	14-May	May, 2021 (provisional)	2021/05	9
+5-14 years	14-May	Jun., 2021 (provisional)	2021/06	5
+5-14 years	14-May	Jul., 2021 (provisional)	2021/07	3
+5-14 years	14-May	Aug., 2021 (provisional)	2021/08	10
+5-14 years	14-May	Sep., 2021 (provisional)	2021/09	2
+5-14 years	14-May	Oct., 2021 (provisional)	2021/10	0
+5-14 years	14-May	Nov., 2021 (provisional and partial)	2021/11	0
+15-24 years	15-24	Jan., 2018	2018/01	334
+15-24 years	15-24	Feb., 2018	2018/02	295
+15-24 years	15-24	Mar., 2018	2018/03	344
+15-24 years	15-24	Apr., 2018	2018/04	337
+15-24 years	15-24	May, 2018	2018/05	325
+15-24 years	15-24	Jun., 2018	2018/06	326
+15-24 years	15-24	Jul., 2018	2018/07	328
+15-24 years	15-24	Aug., 2018	2018/08	343
+15-24 years	15-24	Sep., 2018	2018/09	331
+15-24 years	15-24	Oct., 2018	2018/10	360
+15-24 years	15-24	Nov., 2018	2018/11	254
+15-24 years	15-24	Dec., 2018	2018/12	303
+15-24 years	15-24	Jan., 2019	2019/01	286
+15-24 years	15-24	Feb., 2019	2019/02	271
+15-24 years	15-24	Mar., 2019	2019/03	339
+15-24 years	15-24	Apr., 2019	2019/04	282
+15-24 years	15-24	May, 2019	2019/05	316
+15-24 years	15-24	Jun., 2019	2019/06	306
+15-24 years	15-24	Jul., 2019	2019/07	353
+15-24 years	15-24	Aug., 2019	2019/08	355
+15-24 years	15-24	Sep., 2019	2019/09	335
+15-24 years	15-24	Oct., 2019	2019/10	394
+15-24 years	15-24	Nov., 2019	2019/11	374
+15-24 years	15-24	Dec., 2019	2019/12	385
+15-24 years	15-24	Jan., 2020 (provisional)	2020/01	389
+15-24 years	15-24	Feb., 2020 (provisional)	2020/02	378
+15-24 years	15-24	Mar., 2020 (provisional)	2020/03	483
+15-24 years	15-24	Apr., 2020 (provisional)	2020/04	571
+15-24 years	15-24	May, 2020 (provisional)	2020/05	629
+15-24 years	15-24	Jun., 2020 (provisional)	2020/06	580
+15-24 years	15-24	Jul., 2020 (provisional)	2020/07	601
+15-24 years	15-24	Aug., 2020 (provisional)	2020/08	583
+15-24 years	15-24	Sep., 2020 (provisional)	2020/09	515
+15-24 years	15-24	Oct., 2020 (provisional)	2020/10	533
+15-24 years	15-24	Nov., 2020 (provisional)	2020/11	485
+15-24 years	15-24	Dec., 2020 (provisional)	2020/12	558
+15-24 years	15-24	Jan., 2021 (provisional)	2021/01	573
+15-24 years	15-24	Feb., 2021 (provisional)	2021/02	490
+15-24 years	15-24	Mar., 2021 (provisional)	2021/03	627
+15-24 years	15-24	Apr., 2021 (provisional)	2021/04	602
+15-24 years	15-24	May, 2021 (provisional)	2021/05	587
+15-24 years	15-24	Jun., 2021 (provisional)	2021/06	509
+15-24 years	15-24	Jul., 2021 (provisional)	2021/07	490
+15-24 years	15-24	Aug., 2021 (provisional)	2021/08	409
+15-24 years	15-24	Sep., 2021 (provisional)	2021/09	223
+15-24 years	15-24	Oct., 2021 (provisional)	2021/10	84
+15-24 years	15-24	Nov., 2021 (provisional and partial)	2021/11	9
+25-34 years	25-34	Jan., 2018	2018/01	1140
+25-34 years	25-34	Feb., 2018	2018/02	1090
+25-34 years	25-34	Mar., 2018	2018/03	1226
+25-34 years	25-34	Apr., 2018	2018/04	1168
+25-34 years	25-34	May, 2018	2018/05	1184
+25-34 years	25-34	Jun., 2018	2018/06	1167
+25-34 years	25-34	Jul., 2018	2018/07	1191
+25-34 years	25-34	Aug., 2018	2018/08	1126
+25-34 years	25-34	Sep., 2018	2018/09	1122
+25-34 years	25-34	Oct., 2018	2018/10	1103
+25-34 years	25-34	Nov., 2018	2018/11	1098
+25-34 years	25-34	Dec., 2018	2018/12	1089
+25-34 years	25-34	Jan., 2019	2019/01	1053
+25-34 years	25-34	Feb., 2019	2019/02	1025
+25-34 years	25-34	Mar., 2019	2019/03	1237
+25-34 years	25-34	Apr., 2019	2019/04	1092
+25-34 years	25-34	May, 2019	2019/05	1124
+25-34 years	25-34	Jun., 2019	2019/06	1153
+25-34 years	25-34	Jul., 2019	2019/07	1246
+25-34 years	25-34	Aug., 2019	2019/08	1256
+25-34 years	25-34	Sep., 2019	2019/09	1194
+25-34 years	25-34	Oct., 2019	2019/10	1263
+25-34 years	25-34	Nov., 2019	2019/11	1255
+25-34 years	25-34	Dec., 2019	2019/12	1299
+25-34 years	25-34	Jan., 2020 (provisional)	2020/01	1275
+25-34 years	25-34	Feb., 2020 (provisional)	2020/02	1289
+25-34 years	25-34	Mar., 2020 (provisional)	2020/03	1516
+25-34 years	25-34	Apr., 2020 (provisional)	2020/04	1812
+25-34 years	25-34	May, 2020 (provisional)	2020/05	2085
+25-34 years	25-34	Jun., 2020 (provisional)	2020/06	1764
+25-34 years	25-34	Jul., 2020 (provisional)	2020/07	1737
+25-34 years	25-34	Aug., 2020 (provisional)	2020/08	1747
+25-34 years	25-34	Sep., 2020 (provisional)	2020/09	1552
+25-34 years	25-34	Oct., 2020 (provisional)	2020/10	1480
+25-34 years	25-34	Nov., 2020 (provisional)	2020/11	1529
+25-34 years	25-34	Dec., 2020 (provisional)	2020/12	1580
+25-34 years	25-34	Jan., 2021 (provisional)	2021/01	1797
+25-34 years	25-34	Feb., 2021 (provisional)	2021/02	1536
+25-34 years	25-34	Mar., 2021 (provisional)	2021/03	1820
+25-34 years	25-34	Apr., 2021 (provisional)	2021/04	1740
+25-34 years	25-34	May, 2021 (provisional)	2021/05	1702
+25-34 years	25-34	Jun., 2021 (provisional)	2021/06	1575
+25-34 years	25-34	Jul., 2021 (provisional)	2021/07	1539
+25-34 years	25-34	Aug., 2021 (provisional)	2021/08	1300
+25-34 years	25-34	Sep., 2021 (provisional)	2021/09	808
+25-34 years	25-34	Oct., 2021 (provisional)	2021/10	269
+25-34 years	25-34	Nov., 2021 (provisional and partial)	2021/11	38
+35-44 years	35-44	Jan., 2018	2018/01	1009
+35-44 years	35-44	Feb., 2018	2018/02	994
+35-44 years	35-44	Mar., 2018	2018/03	1081
+35-44 years	35-44	Apr., 2018	2018/04	1010
+35-44 years	35-44	May, 2018	2018/05	1048
+35-44 years	35-44	Jun., 2018	2018/06	1080
+35-44 years	35-44	Jul., 2018	2018/07	1083
+35-44 years	35-44	Aug., 2018	2018/08	1102
+35-44 years	35-44	Sep., 2018	2018/09	1030
+35-44 years	35-44	Oct., 2018	2018/10	1072
+35-44 years	35-44	Nov., 2018	2018/11	992
+35-44 years	35-44	Dec., 2018	2018/12	1058
+35-44 years	35-44	Jan., 2019	2019/01	1038
+35-44 years	35-44	Feb., 2019	2019/02	941
+35-44 years	35-44	Mar., 2019	2019/03	1153
+35-44 years	35-44	Apr., 2019	2019/04	1051
+35-44 years	35-44	May, 2019	2019/05	1148
+35-44 years	35-44	Jun., 2019	2019/06	1126
+35-44 years	35-44	Jul., 2019	2019/07	1112
+35-44 years	35-44	Aug., 2019	2019/08	1179
+35-44 years	35-44	Sep., 2019	2019/09	1152
+35-44 years	35-44	Oct., 2019	2019/10	1210
+35-44 years	35-44	Nov., 2019	2019/11	1230
+35-44 years	35-44	Dec., 2019	2019/12	1261
+35-44 years	35-44	Jan., 2020 (provisional)	2020/01	1326
+35-44 years	35-44	Feb., 2020 (provisional)	2020/02	1235
+35-44 years	35-44	Mar., 2020 (provisional)	2020/03	1466
+35-44 years	35-44	Apr., 2020 (provisional)	2020/04	1632
+35-44 years	35-44	May, 2020 (provisional)	2020/05	2028
+35-44 years	35-44	Jun., 2020 (provisional)	2020/06	1689
+35-44 years	35-44	Jul., 2020 (provisional)	2020/07	1720
+35-44 years	35-44	Aug., 2020 (provisional)	2020/08	1667
+35-44 years	35-44	Sep., 2020 (provisional)	2020/09	1575
+35-44 years	35-44	Oct., 2020 (provisional)	2020/10	1535
+35-44 years	35-44	Nov., 2020 (provisional)	2020/11	1582
+35-44 years	35-44	Dec., 2020 (provisional)	2020/12	1602
+35-44 years	35-44	Jan., 2021 (provisional)	2021/01	1714
+35-44 years	35-44	Feb., 2021 (provisional)	2021/02	1558
+35-44 years	35-44	Mar., 2021 (provisional)	2021/03	1870
+35-44 years	35-44	Apr., 2021 (provisional)	2021/04	1879
+35-44 years	35-44	May, 2021 (provisional)	2021/05	1803
+35-44 years	35-44	Jun., 2021 (provisional)	2021/06	1703
+35-44 years	35-44	Jul., 2021 (provisional)	2021/07	1698
+35-44 years	35-44	Aug., 2021 (provisional)	2021/08	1372
+35-44 years	35-44	Sep., 2021 (provisional)	2021/09	833
+35-44 years	35-44	Oct., 2021 (provisional)	2021/10	299
+35-44 years	35-44	Nov., 2021 (provisional and partial)	2021/11	42
+45-54 years	45-54	Jan., 2018	2018/01	965
+45-54 years	45-54	Feb., 2018	2018/02	876
+45-54 years	45-54	Mar., 2018	2018/03	1009
+45-54 years	45-54	Apr., 2018	2018/04	922
+45-54 years	45-54	May, 2018	2018/05	1021
+45-54 years	45-54	Jun., 2018	2018/06	953
+45-54 years	45-54	Jul., 2018	2018/07	927
+45-54 years	45-54	Aug., 2018	2018/08	975
+45-54 years	45-54	Sep., 2018	2018/09	898
+45-54 years	45-54	Oct., 2018	2018/10	906
+45-54 years	45-54	Nov., 2018	2018/11	855
+45-54 years	45-54	Dec., 2018	2018/12	908
+45-54 years	45-54	Jan., 2019	2019/01	967
+45-54 years	45-54	Feb., 2019	2019/02	899
+45-54 years	45-54	Mar., 2019	2019/03	939
+45-54 years	45-54	Apr., 2019	2019/04	884
+45-54 years	45-54	May, 2019	2019/05	947
+45-54 years	45-54	Jun., 2019	2019/06	943
+45-54 years	45-54	Jul., 2019	2019/07	1028
+45-54 years	45-54	Aug., 2019	2019/08	998
+45-54 years	45-54	Sep., 2019	2019/09	932
+45-54 years	45-54	Oct., 2019	2019/10	1038
+45-54 years	45-54	Nov., 2019	2019/11	1043
+45-54 years	45-54	Dec., 2019	2019/12	1018
+45-54 years	45-54	Jan., 2020 (provisional)	2020/01	1074
+45-54 years	45-54	Feb., 2020 (provisional)	2020/02	1102
+45-54 years	45-54	Mar., 2020 (provisional)	2020/03	1164
+45-54 years	45-54	Apr., 2020 (provisional)	2020/04	1210
+45-54 years	45-54	May, 2020 (provisional)	2020/05	1617
+45-54 years	45-54	Jun., 2020 (provisional)	2020/06	1424
+45-54 years	45-54	Jul., 2020 (provisional)	2020/07	1338
+45-54 years	45-54	Aug., 2020 (provisional)	2020/08	1277
+45-54 years	45-54	Sep., 2020 (provisional)	2020/09	1225
+45-54 years	45-54	Oct., 2020 (provisional)	2020/10	1223
+45-54 years	45-54	Nov., 2020 (provisional)	2020/11	1137
+45-54 years	45-54	Dec., 2020 (provisional)	2020/12	1266
+45-54 years	45-54	Jan., 2021 (provisional)	2021/01	1381
+45-54 years	45-54	Feb., 2021 (provisional)	2021/02	1227
+45-54 years	45-54	Mar., 2021 (provisional)	2021/03	1463
+45-54 years	45-54	Apr., 2021 (provisional)	2021/04	1483
+45-54 years	45-54	May, 2021 (provisional)	2021/05	1422
+45-54 years	45-54	Jun., 2021 (provisional)	2021/06	1306
+45-54 years	45-54	Jul., 2021 (provisional)	2021/07	1270
+45-54 years	45-54	Aug., 2021 (provisional)	2021/08	1082
+45-54 years	45-54	Sep., 2021 (provisional)	2021/09	634
+45-54 years	45-54	Oct., 2021 (provisional)	2021/10	214
+45-54 years	45-54	Nov., 2021 (provisional and partial)	2021/11	39
+55-64 years	55-64	Jan., 2018	2018/01	820
+55-64 years	55-64	Feb., 2018	2018/02	674
+55-64 years	55-64	Mar., 2018	2018/03	789
+55-64 years	55-64	Apr., 2018	2018/04	732
+55-64 years	55-64	May, 2018	2018/05	760
+55-64 years	55-64	Jun., 2018	2018/06	812
+55-64 years	55-64	Jul., 2018	2018/07	815
+55-64 years	55-64	Aug., 2018	2018/08	778
+55-64 years	55-64	Sep., 2018	2018/09	721
+55-64 years	55-64	Oct., 2018	2018/10	770
+55-64 years	55-64	Nov., 2018	2018/11	685
+55-64 years	55-64	Dec., 2018	2018/12	787
+55-64 years	55-64	Jan., 2019	2019/01	790
+55-64 years	55-64	Feb., 2019	2019/02	758
+55-64 years	55-64	Mar., 2019	2019/03	835
+55-64 years	55-64	Apr., 2019	2019/04	775
+55-64 years	55-64	May, 2019	2019/05	849
+55-64 years	55-64	Jun., 2019	2019/06	790
+55-64 years	55-64	Jul., 2019	2019/07	824
+55-64 years	55-64	Aug., 2019	2019/08	833
+55-64 years	55-64	Sep., 2019	2019/09	811
+55-64 years	55-64	Oct., 2019	2019/10	818
+55-64 years	55-64	Nov., 2019	2019/11	876
+55-64 years	55-64	Dec., 2019	2019/12	903
+55-64 years	55-64	Jan., 2020 (provisional)	2020/01	941
+55-64 years	55-64	Feb., 2020 (provisional)	2020/02	918
+55-64 years	55-64	Mar., 2020 (provisional)	2020/03	993
+55-64 years	55-64	Apr., 2020 (provisional)	2020/04	1035
+55-64 years	55-64	May, 2020 (provisional)	2020/05	1279
+55-64 years	55-64	Jun., 2020 (provisional)	2020/06	1059
+55-64 years	55-64	Jul., 2020 (provisional)	2020/07	1160
+55-64 years	55-64	Aug., 2020 (provisional)	2020/08	1059
+55-64 years	55-64	Sep., 2020 (provisional)	2020/09	1033
+55-64 years	55-64	Oct., 2020 (provisional)	2020/10	997
+55-64 years	55-64	Nov., 2020 (provisional)	2020/11	1040
+55-64 years	55-64	Dec., 2020 (provisional)	2020/12	998
+55-64 years	55-64	Jan., 2021 (provisional)	2021/01	1240
+55-64 years	55-64	Feb., 2021 (provisional)	2021/02	1022
+55-64 years	55-64	Mar., 2021 (provisional)	2021/03	1235
+55-64 years	55-64	Apr., 2021 (provisional)	2021/04	1313
+55-64 years	55-64	May, 2021 (provisional)	2021/05	1226
+55-64 years	55-64	Jun., 2021 (provisional)	2021/06	1173
+55-64 years	55-64	Jul., 2021 (provisional)	2021/07	1098
+55-64 years	55-64	Aug., 2021 (provisional)	2021/08	907
+55-64 years	55-64	Sep., 2021 (provisional)	2021/09	602
+55-64 years	55-64	Oct., 2021 (provisional)	2021/10	203
+55-64 years	55-64	Nov., 2021 (provisional and partial)	2021/11	24
+65-74 years	65-74	Jan., 2018	2018/01	187
+65-74 years	65-74	Feb., 2018	2018/02	154
+65-74 years	65-74	Mar., 2018	2018/03	174
+65-74 years	65-74	Apr., 2018	2018/04	205
+65-74 years	65-74	May, 2018	2018/05	164
+65-74 years	65-74	Jun., 2018	2018/06	178
+65-74 years	65-74	Jul., 2018	2018/07	183
+65-74 years	65-74	Aug., 2018	2018/08	192
+65-74 years	65-74	Sep., 2018	2018/09	194
+65-74 years	65-74	Oct., 2018	2018/10	183
+65-74 years	65-74	Nov., 2018	2018/11	197
+65-74 years	65-74	Dec., 2018	2018/12	209
+65-74 years	65-74	Jan., 2019	2019/01	203
+65-74 years	65-74	Feb., 2019	2019/02	195
+65-74 years	65-74	Mar., 2019	2019/03	214
+65-74 years	65-74	Apr., 2019	2019/04	211
+65-74 years	65-74	May, 2019	2019/05	195
+65-74 years	65-74	Jun., 2019	2019/06	211
+65-74 years	65-74	Jul., 2019	2019/07	210
+65-74 years	65-74	Aug., 2019	2019/08	211
+65-74 years	65-74	Sep., 2019	2019/09	204
+65-74 years	65-74	Oct., 2019	2019/10	228
+65-74 years	65-74	Nov., 2019	2019/11	266
+65-74 years	65-74	Dec., 2019	2019/12	238
+65-74 years	65-74	Jan., 2020 (provisional)	2020/01	245
+65-74 years	65-74	Feb., 2020 (provisional)	2020/02	239
+65-74 years	65-74	Mar., 2020 (provisional)	2020/03	253
+65-74 years	65-74	Apr., 2020 (provisional)	2020/04	258
+65-74 years	65-74	May, 2020 (provisional)	2020/05	292
+65-74 years	65-74	Jun., 2020 (provisional)	2020/06	257
+65-74 years	65-74	Jul., 2020 (provisional)	2020/07	301
+65-74 years	65-74	Aug., 2020 (provisional)	2020/08	281
+65-74 years	65-74	Sep., 2020 (provisional)	2020/09	246
+65-74 years	65-74	Oct., 2020 (provisional)	2020/10	254
+65-74 years	65-74	Nov., 2020 (provisional)	2020/11	280
+65-74 years	65-74	Dec., 2020 (provisional)	2020/12	275
+65-74 years	65-74	Jan., 2021 (provisional)	2021/01	318
+65-74 years	65-74	Feb., 2021 (provisional)	2021/02	259
+65-74 years	65-74	Mar., 2021 (provisional)	2021/03	320
+65-74 years	65-74	Apr., 2021 (provisional)	2021/04	347
+65-74 years	65-74	May, 2021 (provisional)	2021/05	342
+65-74 years	65-74	Jun., 2021 (provisional)	2021/06	331
+65-74 years	65-74	Jul., 2021 (provisional)	2021/07	276
+65-74 years	65-74	Aug., 2021 (provisional)	2021/08	259
+65-74 years	65-74	Sep., 2021 (provisional)	2021/09	162
+65-74 years	65-74	Oct., 2021 (provisional)	2021/10	60
+65-74 years	65-74	Nov., 2021 (provisional and partial)	2021/11	12
+75-84 years	75-84	Jan., 2018	2018/01	30
+75-84 years	75-84	Feb., 2018	2018/02	18
+75-84 years	75-84	Mar., 2018	2018/03	21
+75-84 years	75-84	Apr., 2018	2018/04	22
+75-84 years	75-84	May, 2018	2018/05	30
+75-84 years	75-84	Jun., 2018	2018/06	22
+75-84 years	75-84	Jul., 2018	2018/07	27
+75-84 years	75-84	Aug., 2018	2018/08	26
+75-84 years	75-84	Sep., 2018	2018/09	23
+75-84 years	75-84	Oct., 2018	2018/10	22
+75-84 years	75-84	Nov., 2018	2018/11	22
+75-84 years	75-84	Dec., 2018	2018/12	19
+75-84 years	75-84	Jan., 2019	2019/01	28
+75-84 years	75-84	Feb., 2019	2019/02	21
+75-84 years	75-84	Mar., 2019	2019/03	30
+75-84 years	75-84	Apr., 2019	2019/04	41
+75-84 years	75-84	May, 2019	2019/05	30
+75-84 years	75-84	Jun., 2019	2019/06	24
+75-84 years	75-84	Jul., 2019	2019/07	22
+75-84 years	75-84	Aug., 2019	2019/08	28
+75-84 years	75-84	Sep., 2019	2019/09	35
+75-84 years	75-84	Oct., 2019	2019/10	24
+75-84 years	75-84	Nov., 2019	2019/11	19
+75-84 years	75-84	Dec., 2019	2019/12	29
+75-84 years	75-84	Jan., 2020 (provisional)	2020/01	27
+75-84 years	75-84	Feb., 2020 (provisional)	2020/02	22
+75-84 years	75-84	Mar., 2020 (provisional)	2020/03	29
+75-84 years	75-84	Apr., 2020 (provisional)	2020/04	24
+75-84 years	75-84	May, 2020 (provisional)	2020/05	35
+75-84 years	75-84	Jun., 2020 (provisional)	2020/06	22
+75-84 years	75-84	Jul., 2020 (provisional)	2020/07	29
+75-84 years	75-84	Aug., 2020 (provisional)	2020/08	36
+75-84 years	75-84	Sep., 2020 (provisional)	2020/09	21
+75-84 years	75-84	Oct., 2020 (provisional)	2020/10	34
+75-84 years	75-84	Nov., 2020 (provisional)	2020/11	28
+75-84 years	75-84	Dec., 2020 (provisional)	2020/12	22
+75-84 years	75-84	Jan., 2021 (provisional)	2021/01	26
+75-84 years	75-84	Feb., 2021 (provisional)	2021/02	28
+75-84 years	75-84	Mar., 2021 (provisional)	2021/03	38
+75-84 years	75-84	Apr., 2021 (provisional)	2021/04	31
+75-84 years	75-84	May, 2021 (provisional)	2021/05	32
+75-84 years	75-84	Jun., 2021 (provisional)	2021/06	40
+75-84 years	75-84	Jul., 2021 (provisional)	2021/07	23
+75-84 years	75-84	Aug., 2021 (provisional)	2021/08	32
+75-84 years	75-84	Sep., 2021 (provisional)	2021/09	8
+75-84 years	75-84	Oct., 2021 (provisional)	2021/10	9
+75-84 years	75-84	Nov., 2021 (provisional and partial)	2021/11	1
+85+ years	85+	Jan., 2018	2018/01	4
+85+ years	85+	Feb., 2018	2018/02	5
+85+ years	85+	Mar., 2018	2018/03	3
+85+ years	85+	Apr., 2018	2018/04	11
+85+ years	85+	May, 2018	2018/05	11
+85+ years	85+	Jun., 2018	2018/06	9
+85+ years	85+	Jul., 2018	2018/07	6
+85+ years	85+	Aug., 2018	2018/08	4
+85+ years	85+	Sep., 2018	2018/09	7
+85+ years	85+	Oct., 2018	2018/10	11
+85+ years	85+	Nov., 2018	2018/11	7
+85+ years	85+	Dec., 2018	2018/12	6
+85+ years	85+	Jan., 2019	2019/01	6
+85+ years	85+	Feb., 2019	2019/02	9
+85+ years	85+	Mar., 2019	2019/03	14
+85+ years	85+	Apr., 2019	2019/04	6
+85+ years	85+	May, 2019	2019/05	2
+85+ years	85+	Jun., 2019	2019/06	7
+85+ years	85+	Jul., 2019	2019/07	7
+85+ years	85+	Aug., 2019	2019/08	5
+85+ years	85+	Sep., 2019	2019/09	9
+85+ years	85+	Oct., 2019	2019/10	14
+85+ years	85+	Nov., 2019	2019/11	0
+85+ years	85+	Dec., 2019	2019/12	6
+85+ years	85+	Jan., 2020 (provisional)	2020/01	8
+85+ years	85+	Feb., 2020 (provisional)	2020/02	8
+85+ years	85+	Mar., 2020 (provisional)	2020/03	2
+85+ years	85+	Apr., 2020 (provisional)	2020/04	5
+85+ years	85+	May, 2020 (provisional)	2020/05	9
+85+ years	85+	Jun., 2020 (provisional)	2020/06	7
+85+ years	85+	Jul., 2020 (provisional)	2020/07	12
+85+ years	85+	Aug., 2020 (provisional)	2020/08	8
+85+ years	85+	Sep., 2020 (provisional)	2020/09	9
+85+ years	85+	Oct., 2020 (provisional)	2020/10	9
+85+ years	85+	Nov., 2020 (provisional)	2020/11	4
+85+ years	85+	Dec., 2020 (provisional)	2020/12	7
+85+ years	85+	Jan., 2021 (provisional)	2021/01	7
+85+ years	85+	Feb., 2021 (provisional)	2021/02	2
+85+ years	85+	Mar., 2021 (provisional)	2021/03	10
+85+ years	85+	Apr., 2021 (provisional)	2021/04	5
+85+ years	85+	May, 2021 (provisional)	2021/05	7
+85+ years	85+	Jun., 2021 (provisional)	2021/06	6
+85+ years	85+	Jul., 2021 (provisional)	2021/07	9
+85+ years	85+	Aug., 2021 (provisional)	2021/08	9
+85+ years	85+	Sep., 2021 (provisional)	2021/09	1
+85+ years	85+	Oct., 2021 (provisional)	2021/10	2
+85+ years	85+	Nov., 2021 (provisional and partial)	2021/11	0
